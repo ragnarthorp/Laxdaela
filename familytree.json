@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Ketill flatnefur Bjarnarson",
+    "parents": ["Björn buna"],
+    "spouse": "Yngvildur Ketilsdóttir",
+    "children": ["Björn austræni", "Helgi bjólan", "Þórunn hyrna", "Unnur djúpúðga", "Jórunn manvitsbrekka"]
+  },
+  {
+    "name": "Unnur djúpúðga Ketilsdóttir",
+    "parents": ["Ketill flatnefur", "Yngvildur Ketilsdóttir"],
+    "spouse": "Ólafur hvíti Ingjaldsson",
+    "children": ["Þorsteinn rauður"]
+  },
+  {
+    "name": "Þorsteinn rauður Ólafsson",
+    "parents": ["Ólafur hvíti Ingjaldsson", "Unnur djúpúðga"],
+    "spouse": "Þuríður Eyvindardóttir",
+    "children": ["Ólafur feilan", "Gró Þorsteinsdóttir", "Ólöf Þorsteinsdóttir", "Þorgerður Þorsteinsdóttir", "Ósk Þorsteinsdóttir", "Þórhildur Þorsteinsdóttir", "Vigdís Þorsteinsdóttir"]
+  },
+  {
+    "name": "Ólafur feilan Þorsteinsson",
+    "parents": ["Þorsteinn rauður", "Þuríður Eyvindardóttir"],
+    "spouse": "Álfdís barreyska",
+    "children": ["Þórður gellir", "Þóra Ólafsdóttir", "Helga Ólafsdóttir", "Þórunn Ólafsdóttir", "Þórdís Ólafsdóttir", "Vigdís Ingjaldsdóttir (dóttir Ingjalds Ólafssonar feilans)"]
+  },
+  {
+    "name": "Þorgerður Þorsteinsdóttir",
+    "parents": ["Þorsteinn rauður", "Þuríður Eyvindardóttir"],
+    "spouse": ["Dala-Kollur", "Herjólfur"],
+    "children": ["Höskuldur Dala-Kollsson", "Hrútur Herjólfsson"]
+  },
+  {
+    "name": "Dala-Kollur",
+    "parents": [],
+    "spouse": "Þorgerður Þorsteinsdóttir",
+    "children": ["Höskuldur Dala-Kollsson"]
+  },
+  {
+    "name": "Herjólfur",
+    "parents": [],
+    "spouse": "Þorgerður Þorsteinsdóttir",
+    "children": ["Hrútur Herjólfsson"]
+  },
+  {
+    "name": "Höskuldur Dala-Kollsson",
+    "parents": ["Dala-Kollur", "Þorgerður Þorsteinsdóttir"],
+    "spouse": "Jórunn Bjarnardóttir",
+    "children": ["Þorleikur Höskuldsson", "Bárður Höskuldsson", "Hallgerður langbrók", "Þuríður Höskuldsdóttir", "Ólafur pái Höskuldsson (með Melkorku)"]
+  },
+  {
+    "name": "Melkorka Mýrkjartansdóttir",
+    "parents": ["Mýrkjartan Írakonungur"],
+    "spouse": ["(Frillumaður Höskuldur)", "Þorbjörn skrjúpur"],
+    "children": ["Ólafur pái Höskuldsson", "Lambi Þorbjarnarson"]
+  },
+  {
+    "name": "Hrútur Herjólfsson",
+    "parents": ["Herjólfur", "Þorgerður Þorsteinsdóttir"],
+    "spouse": ["Unnur Marðardóttir", "Þorbjörg Ármóðsdóttir", "(Nafnlaus)"],
+    "children": ["Kári Hrútsson", "(15 aðrir synir)", "(10 dætur)"]
+  },
+  {
+    "name": "Ólafur pái Höskuldsson",
+    "parents": ["Höskuldur Dala-Kollsson", "Melkorka"],
+    "spouse": "Þorgerður Egilsdóttir",
+    "children": ["Kjartan Ólafsson", "Steinþór Ólafsson", "Halldór Ólafsson", "Helgi Ólafsson", "Höskuldur Ólafsson", "Þuríður Ólafsdóttir", "Þorbjörg digra Ólafsdóttir", "Bergþóra Ólafsdóttir"]
+  },
+  {
+    "name": "Þorgerður Egilsdóttir",
+    "parents": ["Egill Skalla-Grímsson", "Ásgerður Bjarnardóttir"],
+    "spouse": "Ólafur pái Höskuldsson",
+    "children": ["Kjartan Ólafsson", "Steinþór Ólafsson", "Halldór Ólafsson", "Helgi Ólafsson", "Höskuldur Ólafsson", "Þuríður Ólafsdóttir", "Þorbjörg digra Ólafsdóttir", "Bergþóra Ólafsdóttir"]
+  },
+  {
+    "name": "Þorleikur Höskuldsson",
+    "parents": ["Höskuldur Dala-Kollsson", "Jórunn Bjarnardóttir"],
+    "spouse": "Gjaflaug Arnbjarnardóttir",
+    "children": ["Bolli Þorleiksson"]
+  },
+  {
+    "name": "Bolli Þorleiksson",
+    "parents": ["Þorleikur Höskuldsson", "Gjaflaug Arnbjarnardóttir"],
+    "spouse": "Guðrún Ósvífursdóttir",
+    "children": ["Þorleikur Bollason", "Bolli Bollason"]
+  },
+  {
+    "name": "Kjartan Ólafsson",
+    "parents": ["Ólafur pái Höskuldsson", "Þorgerður Egilsdóttir"],
+    "spouse": "Hrefna Ásgeirsdóttir",
+    "children": ["Ásgeir Kjartansson"]
+  },
+  {
+    "name": "Guðrún Ósvífursdóttir",
+    "parents": ["Ósvífur Helgason", "Þórdís Þjóðólfsdóttir"],
+    "spouse": ["Þorvaldur Halldórsson", "Þórður Ingunnarson", "Bolli Þorleiksson", "Þorkell Eyjólfsson"],
+    "children": ["Þórður köttur Þórðarson", "Þorleikur Bollason", "Bolli Bollason", "Gellir Þorkelsson"]
+  },
+  {
+    "name": "Ósvífur Helgason",
+    "parents": ["Helgi Óttarsson"],
+    "spouse": "Þórdís Þjóðólfsdóttir",
+    "children": ["Óspakur Ósvífursson", "Helgi Ósvífursson", "Vandráður Ósvífursson", "Torráður Ósvífursson", "Þórólfur Ósvífursson", "Guðrún Ósvífursdóttir"]
+  },
+  {
+    "name": "Þórður Ingunnarson",
+    "parents": ["Glúmur Geirason", "Ingunn"],
+    "spouse": ["Auður Þorkelsdóttir", "Guðrún Ósvífursdóttir"],
+    "children": ["Þórður köttur Þórðarson"]
+  },
+  {
+    "name": "Þorkell Eyjólfsson",
+    "parents": ["Eyjólfur grái Þórðarson"],
+    "spouse": "Guðrún Ósvífursdóttir",
+    "children": ["Gellir Þorkelsson"]
+  },
+  {
+    "name": "Bolli Bollason",
+    "parents": ["Bolli Þorleiksson", "Guðrún Ósvífursdóttir"],
+    "spouse": "Þórdís Snorradóttir",
+    "children": ["Herdís Bolladóttir", "Óspakur Bollason"]
+  },
+  {
+    "name": "Snorri goði Þorgrímsson",
+    "parents": ["Þorgrímur Þorsteinsson", "Þórdís Súrsdóttir"],
+    "spouse": "Ásdís Styrsdóttir",
+    "children": ["Þórdís Snorradóttir", "Halldór Snorrason", "Þórður kausi", "Eyjólfur", "Gunnlaugur", "Gellir"]
+  },
+  {
+    "name": "Gellir Þorkelsson",
+    "parents": ["Þorkell Eyjólfsson", "Guðrún Ósvífursdóttir"],
+    "spouse": "Valgerður Þorgilsdóttir",
+    "children": ["Þorkell Gellisson", "Þorgils Gellisson"]
+  },
+  {
+    "name": "Ari hinn fróði Þorgilsson",
+    "parents": ["Þorgils Gellisson", "Jóreiður Eyjólfsdóttir"],
+    "spouse": null,
+    "children": ["Þorkell", "Eyjólfur", "Þorgils"]
+  }
+]

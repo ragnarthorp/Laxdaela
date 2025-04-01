@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laxdæla Saga - Gagnvirk</title>
+
+    <!-- Leturgerðir -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- vis-timeline (CDN útgáfa) -->
+    <link href="https://unpkg.com/vis-timeline@7.7.0/dist/vis-timeline-graph2d.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://unpkg.com/vis-timeline@7.7.0/dist/vis-timeline-graph2d.min.js"></script>
+
+    <!-- Eigin stílar -->
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Laxdæla Saga</h1>
+            <p>Gagnvirk könnun á atburðum, persónum og stöðum</p>
+        </header>
+
+        <nav class="tabs">
+            <button class="tab-button active" data-target="timeline-content">Tímalína</button>
+            <button class="tab-button" data-target="characters-content">Persónur</button>
+            <button class="tab-button" data-target="familytree-content">Ættartré</button>
+            <button class="tab-button" data-target="locations-content">Staðir</button>
+        </nav>
+
+        <main>
+            <div id="timeline-content" class="tab-content active">
+                <h2>Tímalína Atburða</h2>
+                <div id="timeline"></div>
+                <div class="timeline-instructions">
+                    Notaðu músina til að draga tímalínuna til hliðar og skrunhjólið til að þysja inn/út. Smelltu á atburð fyrir frekari upplýsingar.
+                </div>
+            </div>
+
+            <div id="characters-content" class="tab-content">
+                <h2>Persónur Sögunnar</h2>
+                <div id="characters-list">
+                    <p><em>Virkni fyrir persónur væntanleg...</em></p>
+                </div>
+            </div>
+
+            <div id="familytree-content" class="tab-content">
+                <h2>Ættartré</h2>
+                <div id="familytree-display">
+                    <p><em>Virkni fyrir ættartré væntanleg...</em></p>
+                </div>
+            </div>
+
+            <div id="locations-content" class="tab-content">
+                <h2>Staðir Sögunnar</h2>
+                <div id="locations-list">
+                    <p><em>Virkni fyrir staði væntanleg...</em></p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal gluggi -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h3 id="modal-title"></h3>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <!-- Þitt eigið JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>

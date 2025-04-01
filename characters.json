@@ -1,0 +1,295 @@
+[
+  {
+    "name": "Ketill flatnefur Bjarnarson",
+    "description": "Ríkur hersir í Noregi sem flýr land undan Haraldi hárfagra og sest að í Skotlandi. Ættfaðir margra helstu persóna sögunnar.",
+    "first_appearance": 850,
+    "last_appearance": 880,
+    "related_events": [1, 2, 3, 4, 8],
+    "relations": [
+      {"type": "faðir", "name": "Björn buna"},
+      {"type": "eiginkona", "name": "Yngvildur Ketilsdóttir"},
+      {"type": "sonur", "name": "Björn austræni"},
+      {"type": "sonur", "name": "Helgi bjólan"},
+      {"type": "dóttir", "name": "Þórunn hyrna"},
+      {"type": "dóttir", "name": "Unnur djúpúðga"},
+      {"type": "dóttir", "name": "Jórunn manvitsbrekka"},
+      {"type": "dóttursonur", "name": "Þorsteinn rauður"}
+    ]
+  },
+  {
+    "name": "Unnur djúpúðga Ketilsdóttir",
+    "description": "Dóttir Ketils flatnefs. Merk kona sem flýr ófrið í Skotlandi, siglir til Íslands með miklu liði og fé, nemur land í Breiðafjarðardölum og sest að í Hvammi. Hún útdeilir löndum til fylgdarmanna sinna.",
+    "first_appearance": 850,
+    "last_appearance": 915,
+    "related_events": [1, 4, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
+    "relations": [
+      {"type": "faðir", "name": "Ketill flatnefur"},
+      {"type": "móðir", "name": "Yngvildur Ketilsdóttir"},
+      {"type": "eiginmaður", "name": "Ólafur hvíti Ingjaldsson"},
+      {"type": "sonur", "name": "Þorsteinn rauður"},
+      {"type": "barnabarn", "name": "Ólafur feilan"},
+      {"type": "barnabarn", "name": "Gró Þorsteinsdóttir"},
+      {"type": "barnabarn", "name": "Ólöf Þorsteinsdóttir"},
+      {"type": "barnabarn", "name": "Þorgerður Þorsteinsdóttir"},
+      {"type": "barnabarn", "name": "Ósk Þorsteinsdóttir"},
+      {"type": "barnabarn", "name": "Þórhildur Þorsteinsdóttir"},
+      {"type": "barnabarn", "name": "Vigdís Þorsteinsdóttir"},
+      {"type": "bróðir", "name": "Björn austræni"},
+      {"type": "bróðir", "name": "Helgi bjólan"}
+    ]
+  },
+  {
+    "name": "Ólafur feilan Þorsteinsson",
+    "description": "Sonur Þorsteins rauðs og sonarsonur Unnar djúpúðgu. Erfir Hvamm eftir Unni og verður mikill höfðingi. Ættfaðir margra merkra manna.",
+    "first_appearance": 890,
+    "last_appearance": 956,
+    "related_events": [13, 20, 21, 22, 23],
+    "relations": [
+      {"type": "faðir", "name": "Þorsteinn rauður"},
+      {"type": "amma", "name": "Unnur djúpúðga"},
+      {"type": "eiginkona", "name": "Álfdís barreyska"},
+      {"type": "sonur", "name": "Þórður gellir"},
+      {"type": "dóttir", "name": "Þóra Ólafsdóttir"},
+      {"type": "dóttir", "name": "Helga Ólafsdóttir"},
+      {"type": "dóttir", "name": "Þórunn Ólafsdóttir"},
+      {"type": "dóttir", "name": "Þórdís Ólafsdóttir"}
+    ]
+  },
+  {
+    "name": "Höskuldur Dala-Kollsson",
+    "description": "Sonur Dala-Kolls og Þorgerðar Þorsteinsdóttur. Ríkur og metnaðarfullur höfðingi í Laxárdal. Faðir Ólafs páa, Þorleiks og Bárðar. Á í deilum við Hrút hálfbróður sinn.",
+    "first_appearance": 915,
+    "last_appearance": 975,
+    "related_events": [17, 25, 28, 29, 30, 31, 32, 35, 36, 37, 38, 39, 40, 49, 50, 51, 52, 53, 56, 58],
+    "relations": [
+      {"type": "faðir", "name": "Dala-Kollur"},
+      {"type": "móðir", "name": "Þorgerður Þorsteinsdóttir"},
+      {"type": "eiginkona", "name": "Jórunn Bjarnardóttir"},
+      {"type": "frilla", "name": "Melkorka"},
+      {"type": "sonur", "name": "Þorleikur Höskuldsson"},
+      {"type": "sonur", "name": "Bárður Höskuldsson"},
+      {"type": "sonur", "name": "Ólafur pái Höskuldsson"},
+      {"type": "dóttir", "name": "Hallgerður langbrók"},
+      {"type": "dóttir", "name": "Þuríður Höskuldsdóttir"},
+      {"type": "hálfbróðir", "name": "Hrútur Herjólfsson"},
+      {"type": "föðuramma", "name": "Unnur djúpúðga (í gegnum móður)"},
+      {"type": "tengdafaðir", "name": "Björn (faðir Jórunnar)"}
+    ]
+  },
+  {
+    "name": "Melkorka Mýrkjartansdóttir",
+    "description": "Írsk konungsdóttir, hertekin og seld sem ambátt til Höskulds Dala-Kollssonar. Móðir Ólafs páa. Þegir lengi yfir ætterni sínu.",
+    "first_appearance": 955,
+    "last_appearance": 999,
+    "related_events": [36, 38, 39, 40, 49],
+    "relations": [
+      {"type": "faðir", "name": "Mýrkjartan Írakonungur"},
+      {"type": "frillumaður", "name": "Höskuldur Dala-Kollsson"},
+      {"type": "sonur", "name": "Ólafur pái Höskuldsson"},
+      {"type": "tengdakona?", "name": "Jórunn Bjarnardóttir (keppinautur)"},
+      {"type": "eiginmaður", "name": "Þorbjörn skrjúpur"},
+      {"type": "sonur", "name": "Lambi Þorbjarnarson"}
+    ]
+  },
+  {
+    "name": "Ólafur pái Höskuldsson",
+    "description": "Sonur Höskulds Dala-Kollssonar og Melkorku Íraprinsessu. Mannefnilegasti sonur Höskulds, fríður, vinsæll og mikill höfðingi. Hann byggir Hjarðarholt. Faðir Kjartans.",
+    "first_appearance": 956,
+    "last_appearance": 1009,
+    "related_events": [38, 39, 40, 49, 58, 59, 61, 62, 63, 64, 65, 66, 68, 72, 79, 95, 96, 97, 100, 109, 112, 113, 114, 120, 121, 123],
+    "relations": [
+      {"type": "faðir", "name": "Höskuldur Dala-Kollsson"},
+      {"type": "móðir", "name": "Melkorka"},
+      {"type": "fóstri", "name": "Þórður goddi"},
+      {"type": "eiginkona", "name": "Þorgerður Egilsdóttir"},
+      {"type": "sonur", "name": "Kjartan Ólafsson"},
+      {"type": "sonur", "name": "Steinþór Ólafsson"},
+      {"type": "sonur", "name": "Halldór Ólafsson"},
+      {"type": "sonur", "name": "Helgi Ólafsson"},
+      {"type": "sonur", "name": "Höskuldur Ólafsson"},
+      {"type": "dóttir", "name": "Þuríður Ólafsdóttir"},
+      {"type": "dóttir", "name": "Þorbjörg digra Ólafsdóttir"},
+      {"type": "dóttir", "name": "Bergþóra Ólafsdóttir"},
+      {"type": "hálfbróðir", "name": "Þorleikur Höskuldsson"},
+      {"type": "hálfbróðir", "name": "Bárður Höskuldsson"},
+      {"type": "hálfbróðir", "name": "Lambi Þorbjarnarson"},
+      {"type": "fóstsonur", "name": "Bolli Þorleiksson"},
+      {"type": "frændi", "name": "Hrútur Herjólfsson"},
+      {"type": "tengdafaðir", "name": "Egill Skalla-Grímsson"}
+    ]
+  },
+  {
+    "name": "Hrútur Herjólfsson",
+    "description": "Hálfbróðir Höskulds. Mikill víkingur og hirðmaður Haralds Gunnhildarsonar. Snýr aftur til Íslands, á í deilum við Höskuld um arf en sættist síðar. Drepur Eldgrím áttræður. Sonur hans Kári drepinn með seið.",
+    "first_appearance": 932,
+    "last_appearance": 999,
+    "related_events": [27, 28, 29, 51, 52, 53, 56, 92, 93, 94, 95],
+    "relations": [
+      {"type": "faðir", "name": "Herjólfur"},
+      {"type": "móðir", "name": "Þorgerður Þorsteinsdóttir"},
+      {"type": "hálfbróðir", "name": "Höskuldur Dala-Kollsson"},
+      {"type": "eiginkona", "name": "Unnur Marðardóttir"},
+      {"type": "eiginkona", "name": "Þorbjörg Ármóðsdóttir"},
+      {"type": "eiginkona", "name": "(Nafnlaus)"},
+      {"type": "sonur", "name": "Kári Hrútsson"}
+    ]
+  },
+  {
+    "name": "Guðrún Ósvífursdóttir",
+    "description": "Ein af aðalpersónum sögunnar. Fræg fyrir fegurð, gáfur, stolt og flókin ástamál. Giftist fjórum mönnum: Þorvaldi Halldórssyni, Þórði Ingunnarsyni, Bolla Þorleikssyni og Þorkatli Eyjólfssyni. Átti í ástarsambandi við Kjartan Ólafsson og eggjar til hefnda fyrir víg Bolla.",
+    "first_appearance": 975,
+    "last_appearance": 1060,
+    "related_events": [73, 74, 78, 80, 81, 83, 87, 88, 90, 100, 106, 107, 112, 113, 114, 118, 120, 125, 126, 130, 131, 134, 135, 136, 137, 138, 145, 148, 149, 150, 153, 154, 155],
+    "relations": [
+      {"type": "faðir", "name": "Ósvífur Helgason"},
+      {"type": "móðir", "name": "Þórdís Þjóðólfsdóttir"},
+      {"type": "bróðir", "name": "Óspakur Ósvífursson"},
+      {"type": "bróðir", "name": "Helgi Ósvífursson"},
+      {"type": "bróðir", "name": "Vandráður Ósvífursson"},
+      {"type": "bróðir", "name": "Torráður Ósvífursson"},
+      {"type": "bróðir", "name": "Þórólfur Ósvífursson"},
+      {"type": "eiginmaður", "name": "Þorvaldur Halldórsson"},
+      {"type": "eiginmaður", "name": "Þórður Ingunnarson"},
+      {"type": "sonur", "name": "Þórður köttur Þórðarson"},
+      {"type": "eiginmaður", "name": "Bolli Þorleiksson"},
+      {"type": "sonur", "name": "Þorleikur Bollason"},
+      {"type": "sonur", "name": "Bolli Bollason"},
+      {"type": "eiginmaður", "name": "Þorkell Eyjólfsson"},
+      {"type": "sonur", "name": "Gellir Þorkelsson"},
+      {"type": "ást", "name": "Kjartan Ólafsson"},
+      {"type": "vinur/ráðgjafi", "name": "Snorri goði"}
+    ]
+  },
+  {
+    "name": "Kjartan Ólafsson",
+    "description": "Sonur Ólafs páa og Þorgerðar Egilsdóttur. Mannefnilegasti maður síns tíma á Íslandi, fríður, sterkur og vinsæll. Dvelur hjá Ólafi Tryggvasyni, tekur kristni. Elskar Guðrúnu en giftist Hrefnu. Fellur fyrir Bolla fóstbróður sínum.",
+    "first_appearance": 977,
+    "last_appearance": 1006,
+    "related_events": [60, 79, 99, 100, 101, 102, 103, 104, 105, 106, 108, 109, 110, 111, 112, 113, 114, 116, 117, 119],
+    "relations": [
+      {"type": "faðir", "name": "Ólafur pái Höskuldsson"},
+      {"type": "móðir", "name": "Þorgerður Egilsdóttir"},
+      {"type": "fóstbróðir", "name": "Bolli Þorleiksson"},
+      {"type": "bróðir", "name": "Steinþór Ólafsson"},
+      {"type": "bróðir", "name": "Halldór Ólafsson"},
+      {"type": "bróðir", "name": "Helgi Ólafsson"},
+      {"type": "bróðir", "name": "Höskuldur Ólafsson"},
+      {"type": "systir", "name": "Þuríður Ólafsdóttir"},
+      {"type": "systir", "name": "Þorbjörg digra Ólafsdóttir"},
+      {"type": "systir", "name": "Bergþóra Ólafsdóttir"},
+      {"type": "ást", "name": "Guðrún Ósvífursdóttir"},
+      {"type": "eiginkona", "name": "Hrefna Ásgeirsdóttir"},
+      {"type": "sonur", "name": "Ásgeir Kjartansson"},
+      {"type": "vinur/konungur", "name": "Ólafur Tryggvason"},
+      {"type": "unnusta?", "name": "Ingibjörg Tryggvadóttir"}
+    ]
+  },
+  {
+    "name": "Bolli Þorleiksson",
+    "description": "Sonur Þorleiks Höskuldssonar, fóstbróðir Kjartans Ólafssonar. Vænlegur maður og mikill skartsmaður. Giftist Guðrúnu Ósvífursdóttur meðan Kjartan er erlendis. Vígur Kjartan með Fótbít en sér eftir því. Fellur síðar sjálfur fyrir Ólafssonum.",
+    "first_appearance": 974,
+    "last_appearance": 1018,
+    "related_events": [57, 60, 79, 99, 101, 102, 103, 104, 105, 106, 107, 112, 113, 114, 116, 117, 118, 119, 121, 126, 129],
+    "relations": [
+      {"type": "faðir", "name": "Þorleikur Höskuldsson"},
+      {"type": "móðir", "name": "Gjaflaug Arnbjarnardóttir"},
+      {"type": "fóstri", "name": "Ólafur pái Höskuldsson"},
+      {"type": "fóstbróðir", "name": "Kjartan Ólafsson"},
+      {"type": "frændi", "name": "Halldór Ólafsson"},
+      {"type": "frændi", "name": "Steinþór Ólafsson"},
+      {"type": "frændi", "name": "Helgi Ólafsson"},
+      {"type": "frændi", "name": "Höskuldur Ólafsson"},
+      {"type": "eiginkona", "name": "Guðrún Ósvífursdóttir"},
+      {"type": "sonur", "name": "Þorleikur Bollason"},
+      {"type": "sonur", "name": "Bolli Bollason"}
+    ]
+  },
+  {
+    "name": "Snorri goði Þorgrímsson",
+    "description": "Höfðingi á Helgafelli, síðar í Tungu. Vitur og úrræðagóður, oft ráðgjafi og stuðningsmaður Guðrúnar. Miðlar málum og stýrir atburðarásinni oft á laun.",
+    "first_appearance": 965,
+    "last_appearance": 1031,
+    "related_events": [88, 130, 131, 133, 134, 135, 138, 139, 140, 141, 142, 143, 152],
+    "relations": [
+      {"type": "faðir", "name": "Þorgrímur Þorsteinsson"},
+      {"type": "móðir", "name": "Þórdís Súrsdóttir"},
+      {"type": "móðurafi", "name": "Þorsteinn þorskabítur"},
+      {"type": "móðuramma", "name": "Þóra Ólafsdóttir"},
+      {"type": "langafi", "name": "Ólafur feilan"},
+      {"type": "eiginkona", "name": "Ásdís Styrsdóttir"},
+      {"type": "dóttir", "name": "Þórdís Snorradóttir"},
+      {"type": "sonur", "name": "Halldór Snorrason"},
+      {"type": "vinur/ráðgjafi", "name": "Guðrún Ósvífursdóttir"},
+      {"type": "vinur/mágur", "name": "Þorkell Eyjólfsson"},
+      {"type": "tengdasonur", "name": "Bolli Bollason"}
+    ]
+  },
+  {
+    "name": "Þorgerður Egilsdóttir",
+    "description": "Dóttir Egils Skalla-Grímssonar, eiginkona Ólafs páa. Skapstór og metnaðarfull kona sem eggjar syni sína til hefnda fyrir Kjartan.",
+    "first_appearance": 977,
+    "last_appearance": 1018,
+    "related_events": [60, 64, 65, 114, 124, 125, 128, 129],
+    "relations": [
+      {"type": "faðir", "name": "Egill Skalla-Grímsson"},
+      {"type": "móðir", "name": "Ásgerður Bjarnardóttir"},
+      {"type": "eiginmaður", "name": "Ólafur pái Höskuldsson"},
+      {"type": "sonur", "name": "Kjartan Ólafsson"},
+      {"type": "sonur", "name": "Steinþór Ólafsson"},
+      {"type": "sonur", "name": "Halldór Ólafsson"},
+      {"type": "sonur", "name": "Helgi Ólafsson"},
+      {"type": "sonur", "name": "Höskuldur Ólafsson"},
+      {"type": "dóttir", "name": "Þuríður Ólafsdóttir"},
+      {"type": "dóttir", "name": "Þorbjörg digra Ólafsdóttir"},
+      {"type": "dóttir", "name": "Bergþóra Ólafsdóttir"}
+    ]
+  },
+  {
+    "name": "Þorkell Eyjólfsson",
+    "description": "Fjórði eiginmaður Guðrúnar Ósvífursdóttur. Ríkur og mikilhæfur höfðingi. Fer til Noregs eftir kirkjuviði en lendir í deilum við Ólaf helga. Drukknar á Breiðafirði.",
+    "first_appearance": 1020,
+    "last_appearance": 1030,
+    "related_events": [132, 133, 134, 135, 136, 137, 138, 145, 146, 147, 148],
+    "relations": [
+      {"type": "faðir", "name": "Eyjólfur grái Þórðarson"},
+      {"type": "eiginkona", "name": "Guðrún Ósvífursdóttir"},
+      {"type": "sonur", "name": "Gellir Þorkelsson"},
+      {"type": "vinur/ráðgjafi", "name": "Snorri goði"},
+      {"type": "vinur/konungur", "name": "Ólafur helgi"}
+    ]
+  },
+  {
+    "name": "Bolli Bollason",
+    "description": "Sonur Bolla Þorleikssonar og Guðrúnar Ósvífursdóttur. Elst upp hjá Snorra goða og Guðrúnu. Kvænist Þórdísi Snorradóttur. Fer í víðfræga ferð til Miklagarðs og gengur í Væringjasveit. Snýr aftur ríkur og frægur, kallaður Bolli prúði. Tekur við búi í Tungu eftir Snorra.",
+    "first_appearance": 1019,
+    "last_appearance": 1050,
+    "related_events": [131, 134, 138, 139, 140, 141, 142, 143, 144, 151, 152, 154, 160, 163, 164, 165, 166, 167, 168],
+    "relations": [
+      {"type": "faðir", "name": "Bolli Þorleiksson"},
+      {"type": "móðir", "name": "Guðrún Ósvífursdóttir"},
+      {"type": "bróðir", "name": "Þorleikur Bollason"},
+      {"type": "hálfbróðir", "name": "Þórður köttur Þórðarson"},
+      {"type": "hálfbróðir", "name": "Gellir Þorkelsson"},
+      {"type": "tengdafaðir", "name": "Snorri goði"},
+      {"type": "eiginkona", "name": "Þórdís Snorradóttir"},
+      {"type": "dóttir", "name": "Herdís Bolladóttir"},
+      {"type": "sonur", "name": "Óspakur Bollason"}
+    ]
+  },
+  {
+    "name": "Halldór Ólafsson",
+    "description": "Sonur Ólafs páa, tekur við búi í Hjarðarholti. Tregur til hefnda fyrir Kjartan en lætur undan eggjan Þorgerðar móður sinnar. Tekur þátt í vígi Bolla Þorleikssonar.",
+    "first_appearance": 977,
+    "last_appearance": 1026,
+    "related_events": [60, 107, 120, 121, 123, 124, 125, 128, 129, 142],
+    "relations": [
+      {"type": "faðir", "name": "Ólafur pái Höskuldsson"},
+      {"type": "móðir", "name": "Þorgerður Egilsdóttir"},
+      {"type": "bróðir", "name": "Kjartan Ólafsson"},
+      {"type": "bróðir", "name": "Steinþór Ólafsson"},
+      {"type": "bróðir", "name": "Helgi Ólafsson"},
+      {"type": "bróðir", "name": "Höskuldur Ólafsson"},
+      {"type": "fóstri", "name": "Hólmgöngu-Bersi"}
+    ]
+  }
+]

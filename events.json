@@ -1,0 +1,1514 @@
+[
+  {
+    "id": 1,
+    "title": "Ætt Ketils flatnefs kynnt",
+    "year": 850,
+    "summary": "Kynnt er ætt Ketils flatnefs Bjarnarsonar bunu, ríks hersis í Raumsdal í Noregi, konu hans Yngvildar og barna þeirra: Björns austræna, Helga bjólan, Þórunnar hyrnu, Unnar djúpúðgu og Jórunnar manvitsbrekku.",
+    "location": "Raumsdalur, Noregur",
+    "characters": ["Ketill flatnefur", "Yngvildur Ketilsdóttir", "Björn austræni", "Helgi bjólan", "Þórunn hyrna", "Unnur djúpúðga", "Jórunn manvitsbrekka"],
+    "tags": ["ætt", "upphaf", "Noregur"]
+  },
+  {
+    "id": 2,
+    "title": "Ketill og synir ákveða brottför",
+    "year": 870,
+    "summary": "Vegna yfirgangs Haraldar hárfagra ákveður Ketill flatnefur, eftir samráð við frændur sína, að flýja Noreg frekar en lúta konungi eða vera drepinn. Björn og Helgi vilja til Íslands en Ketill vill vestur um haf.",
+    "location": "Noregur",
+    "characters": ["Ketill flatnefur", "Haraldur hárfagri (nefndur)", "Björn austræni", "Helgi bjólan"],
+    "tags": ["brottflutningur", "stjórnmál", "ættardeilur", "frelsi", "Noregur"]
+  },
+  {
+    "id": 3,
+    "title": "Hjónaband Þórunnar hyrnu og Helga magra",
+    "year": 871,
+    "summary": "Ketill flatnefur giftir Þórunni hyrnu dóttur sína Helga hinum magra áður en fjölskyldan skiptir liði og fer úr landi.",
+    "location": "Noregur",
+    "characters": ["Ketill flatnefur", "Þórunn hyrna", "Helgi hinn magri"],
+    "tags": ["hjónaband", "ættartengsl", "brottflutningur"]
+  },
+  {
+    "id": 4,
+    "title": "Ketill siglir vestur, synir til Íslands",
+    "year": 871,
+    "summary": "Ketill flatnefur siglir vestur um haf til Skotlands ásamt Unni dóttur sinni. Synir hans, Björn austræni og Helgi bjólan, sigla til Íslands ásamt Helga magra mági sínum.",
+    "location": "Noregur → Skotland; Noregur → Ísland",
+    "characters": ["Ketill flatnefur", "Unnur djúpúðga", "Björn austræni", "Helgi bjólan", "Helgi hinn magri"],
+    "tags": ["ferðalag", "brottflutningur", "landnám"]
+  },
+  {
+    "id": 5,
+    "title": "Björn austræni nemur land",
+    "year": 872,
+    "summary": "Björn Ketilsson kemur skipi sínu í Breiðafjörð, finnur öndvegissúlur sínar og nemur land milli Stafár og Hraunfjarðar. Hann býr í Bjarnarhöfn.",
+    "location": "Bjarnarhöfn, Breiðafjörður, Ísland",
+    "characters": ["Björn austræni"],
+    "tags": ["landnám", "Ísland"]
+  },
+  {
+    "id": 6,
+    "title": "Helgi bjólan nemur land",
+    "year": 872,
+    "summary": "Helgi bjólan Ketilsson kemur skipi sínu fyrir sunnan land og nemur Kjalarnes allt milli Kollafjarðar og Hvalfjarðar. Hann býr að Esjubergi.",
+    "location": "Kjalarnes, Ísland",
+    "characters": ["Helgi bjólan"],
+    "tags": ["landnám", "Ísland"]
+  },
+  {
+    "id": 7,
+    "title": "Helgi magri nemur land",
+    "year": 872,
+    "summary": "Helgi hinn magri kemur skipi sínu fyrir norðan land og nemur Eyjafjörð allan milli Sigluness og Reynisness. Hann býr í Kristnesi.",
+    "location": "Eyjafjörður, Ísland",
+    "characters": ["Helgi hinn magri"],
+    "tags": ["landnám", "Ísland"]
+  },
+  {
+    "id": 8,
+    "title": "Ketill sest að í Skotlandi",
+    "year": 872,
+    "summary": "Ketill flatnefur fær góðar viðtökur í Skotlandi og sest þar að. Dóttursonur hans, Þorsteinn rauður, herjar víða, gerir sætt við Skota og verður konungur yfir hálfu Skotlandi.",
+    "location": "Skotland",
+    "characters": ["Ketill flatnefur", "Þorsteinn rauður"],
+    "tags": ["landnám", "stjórnmál", "hernaður", "Skotland"]
+  },
+  {
+    "id": 9,
+    "title": "Þorsteinn rauður svikinn og drepinn",
+    "year": 880,
+    "summary": "Skotar rjúfa sættina við Þorstein rauð og svíkja hann í tryggð. Hann fellur á Katanesi.",
+    "location": "Katanes, Skotland",
+    "characters": ["Þorsteinn rauður"],
+    "tags": ["dauði", "svik", "hernaður", "Skotland"]
+  },
+  {
+    "id": 10,
+    "title": "Unnur djúpúðga flýr Skotland",
+    "year": 880,
+    "summary": "Eftir fall Þorsteins sonar síns og andlát Ketils föður síns lætur Unnur djúpúðga byggja knörr á laun, safnar saman fé og frændliði, þar á meðal Koll og Hörð, og siglir brott frá Katanesi.",
+    "location": "Katanes, Skotland → Orkneyjar",
+    "characters": ["Unnur djúpúðga", "Kollur", "Hörður"],
+    "tags": ["flótti", "forysta", "kvenhetja", "ferðalag"]
+  },
+  {
+    "id": 11,
+    "title": "Unnur í Orkneyjum og Færeyjum",
+    "year": 881,
+    "summary": "Unnur dvelst stutta hríð í Orkneyjum og giftir þar Gró, dóttur Þorsteins rauðs, Þorfinni jarli Torf-Einarssyni. Síðan heldur hún til Færeyja og dvelur þar um sinn.",
+    "location": "Orkneyjar → Færeyjar",
+    "characters": ["Unnur djúpúðga", "Gró Þorsteinsdóttir", "Þorfinnur jarl Torf-Einarsson"],
+    "tags": ["ferðalag", "hjónaband", "ættartengsl"]
+  },
+  {
+    "id": 12,
+    "title": "Ólöf Þorsteinsdóttir giftist í Færeyjum",
+    "year": 885,
+    "summary": "Í Færeyjum giftir Unnur djúpúðga aðra dóttur Þorsteins rauðs, Ólöfu. Frá henni eru Götuskeggjar komnir.",
+    "location": "Færeyjar",
+    "characters": ["Unnur djúpúðga", "Ólöf Þorsteinsdóttir"],
+    "tags": ["hjónaband", "ættartengsl", "Færeyjar"]
+  },
+  {
+    "id": 13,
+    "title": "Unnur kemur til Íslands",
+    "year": 890,
+    "summary": "Unnur djúpúðga siglir frá Færeyjum til Íslands með Ólaf feilan og fleiri. Skipið brotnar við Vikrarskeið en menn og fé bjargast.",
+    "location": "Færeyjar → Vikrarskeið, Ísland",
+    "characters": ["Unnur djúpúðga", "Ólafur feilan"],
+    "tags": ["ferðalag", "landkoma", "skipbrot", "Ísland"]
+  },
+  {
+    "id": 14,
+    "title": "Heimsóknir Unnar til bræðra sinna",
+    "year": 890,
+    "summary": "Unnur heimsækir Helga bjólan bróður sinn en hann býður henni aðeins til sín með tíunda mann. Hún reiðist og fer í Breiðafjörð til Björns bróður síns sem tekur henni og öllu hennar liði með kostgæfni. Hún dvelur þar um veturinn.",
+    "location": "Kjalarnes → Bjarnarhöfn, Ísland",
+    "characters": ["Unnur djúpúðga", "Helgi bjólan", "Björn austræni"],
+    "tags": ["fjölskyldutengsl", "móttökur", "gestrisni", "ágreiningur"]
+  },
+  {
+    "id": 15,
+    "title": "Unnur kannar Breiðafjörð og nemur land",
+    "year": 891,
+    "summary": "Um vorið fer Unnur um Breiðafjörð, nefnir Dögurðarnes og Kambsnes. Hún nemur lönd í Breiðafjarðardölum.",
+    "location": "Breiðafjörður (Dögurðarnes, Kambsnes), Ísland",
+    "characters": ["Unnur djúpúðga"],
+    "tags": ["landkönnun", "landnám", "staðanöfn"]
+  },
+  {
+    "id": 16,
+    "title": "Unnur sest að í Hvammi",
+    "year": 891,
+    "summary": "Unnur finnur öndvegissúlur sínar reknar á land í botni Hvammsfjarðar og reisir þar bæ sem hún kallar Hvamm.",
+    "location": "Hvammur, Ísland",
+    "characters": ["Unnur djúpúðga"],
+    "tags": ["landnám", "búseta", "örlög"]
+  },
+  {
+    "id": 17,
+    "title": "Kollur kvænist Þorgerði",
+    "year": 891,
+    "summary": "Sama vor og Unnur settist að í Hvammi giftist Kollur, fylgdarmaður hennar, Þorgerði Þorsteinsdóttur (dóttur Þorsteins rauðs). Unnur kostar brúðkaupið og gefur þeim Laxárdal allan. Þau setja bú sitt þar sunnan Laxár. Sonur þeirra er Höskuldur.",
+    "location": "Hvammur → Laxárdalur, Ísland",
+    "characters": ["Unnur djúpúðga", "Kollur", "Þorgerður Þorsteinsdóttir", "Höskuldur Dala-Kollsson (fæðist síðar)"],
+    "tags": ["hjónaband", "landnám", "gjöf", "ættartengsl"]
+  },
+  {
+    "id": 18,
+    "title": "Unnur gefur lönd fylgdarmönnum",
+    "year": 892,
+    "summary": "Unnur gefur fylgdarmönnum sínum lönd: Herði Hörðadal, Erpi Sauðafellslönd, Sökkólfi Sökkólfsdal, Hundi Hundadal og Vífil Vífilsdal. Hún gefur Erpi og frelsi.",
+    "location": "Breiðafjarðardalir, Ísland",
+    "characters": ["Unnur djúpúðga", "Hörður", "Erpur", "Sökkólfur", "Hundur", "Vífill"],
+    "tags": ["landnám", "gjöf", "frelsi", "þrælahald"]
+  },
+  {
+    "id": 19,
+    "title": "Ættir frá dætrum Þorsteins rauðs",
+    "year": 895,
+    "summary": "Greint er frá afkomendum Óskar, Þórhildar og Vigdísar, dætra Þorsteins rauðs, sem tengjast m.a. Reyknesingum og Höfðamönnum í Eyjafirði.",
+    "location": "Ísland",
+    "characters": ["Ósk Þorsteinsdóttir", "Þórhildur Þorsteinsdóttir", "Vigdís Þorsteinsdóttir", "Þorsteinn surtur", "Álfur í Dölum", "Ari Másson"],
+    "tags": ["ætt", "ættartengsl"]
+  },
+  {
+    "id": 20,
+    "title": "Unnur undirbýr framtíð Ólafs feilans",
+    "year": 915,
+    "summary": "Unnur, orðin ellimóð, lýsir því yfir að Ólafur feilan, yngsti sonur Þorsteins rauðs, skuli erfa eignir hennar í Hvammi. Hún hvetur hann til að kvænast.",
+    "location": "Hvammur, Ísland",
+    "characters": ["Unnur djúpúðga", "Ólafur feilan"],
+    "tags": ["erfðir", "hjónaband", "framtíðaráform"]
+  },
+  {
+    "id": 21,
+    "title": "Ólafur feilan kvænist Álfdísi",
+    "year": 915,
+    "summary": "Að ráði Unnar kvænist Ólafur feilan Álfdísi barreysku. Unnur heldur mikla veislu í Hvammi um haustið og býður fjölmenni, m.a. bræðrum sínum Birni og Helga.",
+    "location": "Hvammur, Ísland",
+    "characters": ["Unnur djúpúðga", "Ólafur feilan", "Álfdís barreyska", "Björn austræni", "Helgi bjólan", "Dala-Kollur", "Hörður"],
+    "tags": ["hjónaband", "veisla", "ættartengsl"]
+  },
+  {
+    "id": 22,
+    "title": "Andlát og útför Unnar djúpúðgu",
+    "year": 915,
+    "summary": "Á brúðkaupsveislu Ólafs og Álfdísar tilkynnir Unnur að Ólafur erfi allt eftir sig. Hún gengur til skemmu sinnar og finnst þar önduð morguninn eftir. Hún er heygð í skipi með miklu fé. Veislan verður bæði brúðkaup og erfi.",
+    "location": "Hvammur, Ísland",
+    "characters": ["Unnur djúpúðga", "Ólafur feilan"],
+    "tags": ["dauði", "jarðarför", "erfðir", "veisla", "virðing"]
+  },
+  {
+    "id": 23,
+    "title": "Ólafur feilan tekur við Hvammi",
+    "year": 915,
+    "summary": "Ólafur feilan tekur við búi og fjárforráðum í Hvammi eftir andlát Unnar. Hann verður ríkur maður og mikill höfðingi. Afkomendur hans og Álfdísar eru taldir upp, þar á meðal Þórður gellir og Þóra, móðir Barkar digra og Þorgríms, föður Snorra goða.",
+    "location": "Hvammur, Ísland",
+    "characters": ["Ólafur feilan", "Álfdís barreyska", "Þórður gellir", "Þóra Ólafsdóttir", "Helga Ólafsdóttir", "Þórunn Ólafsdóttir", "Þórdís Ólafsdóttir"],
+    "tags": ["erfðir", "ætt", "höfðingi"]
+  },
+  {
+    "id": 24,
+    "title": "Andlát Dala-Kolls",
+    "year": 920,
+    "summary": "Dala-Kollur, mágur Ólafs feilans og eiginmaður Þorgerðar Þorsteinsdóttur, tekur sótt og andast.",
+    "location": "Laxárdalur, Ísland",
+    "characters": ["Dala-Kollur"],
+    "tags": ["dauði"]
+  },
+  {
+    "id": 25,
+    "title": "Höskuldur tekur við búi; Þorgerður fer til Noregs",
+    "year": 930,
+    "summary": "Höskuldur Dala-Kollsson, þá ungur en þroskaður, tekur við búi föður síns á Höskuldsstöðum. Móðir hans, Þorgerður, fer með sinn hluta fjár til Noregs.",
+    "location": "Höskuldsstaðir, Laxárdalur, Ísland → Noregur",
+    "characters": ["Höskuldur Dala-Kollsson", "Þorgerður Þorsteinsdóttir"],
+    "tags": ["erfðir", "ferðalag", "fjölskyldutengsl"]
+  },
+  {
+    "id": 26,
+    "title": "Þorgerður giftist Herjólfi",
+    "year": 931,
+    "summary": "Í Noregi tekur ættmenn vel á móti Þorgerði. Hún giftist Herjólfi, lendum manni, miklum og sterkum en ekki fríðum. Þau eignast góðar samfarir.",
+    "location": "Noregur",
+    "characters": ["Þorgerður Þorsteinsdóttir", "Herjólfur"],
+    "tags": ["hjónaband", "Noregur"]
+  },
+  {
+    "id": 27,
+    "title": "Fæðing Hrúts Herjólfssonar",
+    "year": 932,
+    "summary": "Þorgerður og Herjólfur eignast son sem nefndur er Hrútur. Hann er snemma mikill og sterkur, manna fríðastur og mikill atgervismaður.",
+    "location": "Noregur",
+    "characters": ["Hrútur Herjólfsson", "Þorgerður Þorsteinsdóttir", "Herjólfur"],
+    "tags": ["fæðing", "ætt", "Noregur"]
+  },
+  {
+    "id": 28,
+    "title": "Andlát Herjólfs; Þorgerður snýr aftur",
+    "year": 940,
+    "summary": "Herjólfur deyr. Þorgerður snýr aftur til Íslands til Höskulds sonar síns og skilur Hrút eftir hjá frændum í Noregi. Hún dvelur með Höskuldi til dauðadags.",
+    "location": "Noregur → Höskuldsstaðir, Ísland",
+    "characters": ["Herjólfur", "Þorgerður Þorsteinsdóttir", "Höskuldur Dala-Kollsson", "Hrútur Herjólfsson"],
+    "tags": ["dauði", "heimkoma", "fjölskyldutengsl"]
+  },
+  {
+    "id": 29,
+    "title": "Andlát Þorgerðar",
+    "year": 945,
+    "summary": "Þorgerður Þorsteinsdóttir deyr og er heygð. Höskuldur tekur fé hennar en Hrútur bróðir hans á helming.",
+    "location": "Höskuldsstaðir, Ísland",
+    "characters": ["Þorgerður Þorsteinsdóttir", "Höskuldur Dala-Kollsson", "Hrútur Herjólfsson"],
+    "tags": ["dauði", "jarðarför", "erfðir"]
+  },
+  {
+    "id": 30,
+    "title": "Höskuldur biður Jórunnar Bjarnardóttur",
+    "year": 948,
+    "summary": "Höskuldur, sem er hirðmaður Hákonar Aðalsteinsfóstra, fréttir af Jórunni Bjarnardóttur frá Bjarnarfirði á Ströndum. Hann ríður þangað og biður hennar. Hún og faðir hennar taka vel í bónorðið.",
+    "location": "Höskuldsstaðir → Bjarnarfjörður, Ísland",
+    "characters": ["Höskuldur Dala-Kollsson", "Jórunn Bjarnardóttir", "Björn (faðir Jórunnar)", "Hákon Aðalsteinsfóstri (nefndur)"],
+    "tags": ["bónorð", "hjónaband", "ættartengsl", "stéttaskipting"]
+  },
+  {
+    "id": 31,
+    "title": "Brúðkaup Höskulds og Jórunnar",
+    "year": 948,
+    "summary": "Jórunn er föstnuð Höskuldi með miklu fé. Brúðkaupið er haldið á Höskuldsstöðum og er hin skörulegasta veisla. Jórunn tekur við búi með Höskuldi, er vitur en skapstór.",
+    "location": "Höskuldsstaðir, Ísland",
+    "characters": ["Höskuldur Dala-Kollsson", "Jórunn Bjarnardóttir", "Björn (faðir Jórunnar)"],
+    "tags": ["hjónaband", "veisla", "búskapur"]
+  },
+  {
+    "id": 32,
+    "title": "Börn Höskulds og Jórunnar fæðast",
+    "year": 950,
+    "summary": "Höskuldur og Jórunn eignast börn: Þorleik (elstur, líkur Strandamönnum), Bárð (líkur föðurfrændum, vinsæll), Hallgerði langbrók og Þuríði.",
+    "location": "Höskuldsstaðir, Ísland",
+    "characters": ["Höskuldur Dala-Kollsson", "Jórunn Bjarnardóttir", "Þorleikur Höskuldsson", "Bárður Höskuldsson", "Hallgerður langbrók", "Þuríður Höskuldsdóttir"],
+    "tags": ["fæðing", "ætt", "fjölskyldulíf"]
+  },
+  {
+    "id": 33,
+    "title": "Hrappur Sumarliðason kynntur",
+    "year": 950,
+    "summary": "Víga-Hrappur Sumarliðason, skoskur að ætt, flýr til Íslands vegna óhappa og sest að á Hrappsstöðum í Laxárdal. Hann er ódæll og ágangssamur við nágranna sína.",
+    "location": "Hrappstaðir, Laxárdalur, Ísland",
+    "characters": ["Víga-Hrappur Sumarliðason", "Vigdís Hallsteinsdóttir", "Sumarliði Hrappsson"],
+    "tags": ["landnám", "landflótti", "ágreiningur", "nágrannaerjur"]
+  },
+  {
+    "id": 34,
+    "title": "Þórður goddi og Vigdís kynnt",
+    "year": 950,
+    "summary": "Þórður goddi, auðugur en barnlaus, býr á Goddastöðum, nálægt Hrappi. Kona hans er Vigdís Ingjaldsdóttir, frændkona Þórðar gellis. Hún er skörungur en Þórður lítillátur.",
+    "location": "Goddastaðir, Laxárdalur, Ísland",
+    "characters": ["Þórður goddi", "Vigdís Ingjaldsdóttir", "Ásgautur (þræll)"],
+    "tags": ["nágrannar", "hjónaband", "eiginleikar"]
+  },
+  {
+    "id": 35,
+    "title": "Höskuldur fer til Noregs",
+    "year": 955,
+    "summary": "Höskuldi þykir bær sinn illa húsaður og ákveður að fara til Noregs eftir timbri. Hann kaupir skip í Blönduósi og siglir utan. Jórunn sér um búið heima.",
+    "location": "Höskuldsstaðir, Ísland → Blönduós → Noregur",
+    "characters": ["Höskuldur Dala-Kollsson", "Jórunn Bjarnardóttir"],
+    "tags": ["ferðalag", "viðskipti", "byggingaráform"]
+  },
+  {
+    "id": 36,
+    "title": "Höskuldur kaupir Melkorku",
+    "year": 955,
+    "summary": "Á fjölmennum fundi konungs í Brenneyjum kaupir Höskuldur ambátt af Gilla hinum gerska fyrir þrjár merkur silfurs. Konan er fríð en talin mállaus.",
+    "location": "Brenneyjar, Noregur",
+    "characters": ["Höskuldur Dala-Kollsson", "Gilli hinn gerski", "Melkorka"],
+    "tags": ["kaup", "ambátt", "ferðalag"]
+  },
+  {
+    "id": 37,
+    "title": "Höskuldur fær timbur frá konungi",
+    "year": 956,
+    "summary": "Höskuldur hittir Hákon konung Aðalsteinsfóstra, fær góðar viðtökur og dvelur með honum um hríð. Konungur gefur honum húsavið og hleður skip hans. Að skilnaði gefur konungur honum gullhring og sverð.",
+    "location": "Vík, Noregur",
+    "characters": ["Höskuldur Dala-Kollsson", "Hákon Aðalsteinsfóstri"],
+    "tags": ["konunglegir fundir", "gjöf", "viðskipti", "hirðlíf"]
+  },
+  {
+    "id": 38,
+    "title": "Heimkoma Höskulds; Ólafur pái fæðist",
+    "year": 956,
+    "summary": "Höskuldur siglir heim til Íslands með timbur og ambáttina Melkorku. Jórunn tekur henni illa. Um veturinn fæðir Melkorka sveinbarn sem nefnt er Ólafur eftir Ólafi feilan. Höskuldur leggur mikla ást á sveininn.",
+    "location": "Noregur → Laxárós → Höskuldsstaðir, Ísland",
+    "characters": ["Höskuldur Dala-Kollsson", "Melkorka", "Jórunn Bjarnardóttir", "Ólafur pái Höskuldsson"],
+    "tags": ["heimkoma", "fæðing", "fjölskyldudeilur"]
+  },
+  {
+    "id": 39,
+    "title": "Melkorka ljóstrar upp um ætt sína",
+    "year": 958,
+    "summary": "Þegar Ólafur sonur hennar er tveggja ára heyrir Höskuldur Melkorku tala við hann. Hún segist heita Melkorka og vera dóttir Mýrkjartans Írakonungs, hertekin fimmtán vetra gömul.",
+    "location": "Höskuldsstaðir, Laxárdalur, Ísland",
+    "characters": ["Melkorka", "Höskuldur Dala-Kollsson", "Ólafur pái Höskuldsson"],
+    "tags": ["leyndarmál", "ætt", "uppljóstrun"]
+  },
+  {
+    "id": 40,
+    "title": "Melkorka flytur á Melkorkustaði",
+    "year": 959,
+    "summary": "Eftir árekstur milli Jórunnar og Melkorku lætur Höskuldur Melkorku fara og setur upp bú fyrir hana á Melkorkustöðum uppi í Laxárdal. Ólafur sonur þeirra fer með henni.",
+    "location": "Höskuldsstaðir → Melkorkustaðir, Laxárdalur, Ísland",
+    "characters": ["Melkorka", "Höskuldur Dala-Kollsson", "Jórunn Bjarnardóttir", "Ólafur pái Höskuldsson"],
+    "tags": ["fjölskyldudeilur", "búsetuflutningar", "aðskilnaður"]
+  },
+  {
+    "id": 41,
+    "title": "Hallur veginn af Þórólfi",
+    "year": 960,
+    "summary": "Í Bjarneyjum í Breiðafirði lendir Hallur, bróðir Ingjalds Sauðeyjargoða, í deilu við Þórólf um skiptingu afla. Hallur reynir að ráðast á Þórólf en er stöðvaður. Síðar situr Þórólfur fyrir Halli og heggur af honum höfuðið.",
+    "location": "Bjarneyjar, Breiðafjörður, Ísland",
+    "characters": ["Hallur Ingjaldsson", "Þórólfur", "Ingjaldur Sauðeyjargoði (nefndur)"],
+    "tags": ["deilur", "morð", "hefnd", "sjósókn"]
+  },
+  {
+    "id": 42,
+    "title": "Þórólfur leitar ásjár hjá Vigdísi",
+    "year": 960,
+    "summary": "Þórólfur flýr og kemur að kvöldi til Goddastaða. Hann leitar ásjár Vigdísar, konu Þórðar godda, sem er skyld honum. Hún ákveður að hjálpa honum þrátt fyrir tregðu Þórðar.",
+    "location": "Goddastaðir, Laxárdalur, Ísland",
+    "characters": ["Þórólfur", "Vigdís Ingjaldsdóttir", "Þórður goddi"],
+    "tags": ["flótti", "ásjá", "frændsemi", "lög"]
+  },
+  {
+    "id": 43,
+    "title": "Ingjaldur leitar Þórólfs",
+    "year": 961,
+    "summary": "Ingjaldur Sauðeyjargoði fréttir hvar Þórólfur er og kemur til Goddastaða. Hann býður Þórði godda þrjár merkur silfurs fyrir að framselja Þórólf. Þórður þiggur féð.",
+    "location": "Goddastaðir, Ísland",
+    "characters": ["Ingjaldur Sauðeyjargoði", "Þórður goddi", "Þórólfur"],
+    "tags": ["eftirför", "svik", "mútur", "lög"]
+  },
+  {
+    "id": 44,
+    "title": "Vigdís bjargar Þórólfi",
+    "year": 961,
+    "summary": "Vigdís kemst að svikum Þórðar og Ingjalds. Hún sendir Ásgaut þræl sinn með Þórólf á brott og heitir Ásgauti frelsi. Þeir sleppa naumlega undan Ingjaldi með því að synda yfir ískalda Laxá.",
+    "location": "Goddastaðir → Laxá, Ísland",
+    "characters": ["Vigdís Ingjaldsdóttir", "Þórólfur", "Ásgautur", "Ingjaldur Sauðeyjargoði", "Þórður goddi"],
+    "tags": ["björgun", "flótti", "hugrekki", "svik"]
+  },
+  {
+    "id": 45,
+    "title": "Þórólfur fær hæli á Sauðafelli",
+    "year": 961,
+    "summary": "Ásgautur fylgir Þórólfi til Þórólfs rauðnefs á Sauðafelli. Vigdís hafði sent jartegnir með þeim og tekur Þórólfur rauðnefur vel við nafna sínum að hennar orðsendingu.",
+    "location": "Sauðafell, Ísland",
+    "characters": ["Þórólfur", "Ásgautur", "Þórólfur rauðnefur", "Vigdís Ingjaldsdóttir"],
+    "tags": ["ásjá", "frændsemi", "traust"]
+  },
+  {
+    "id": 46,
+    "title": "Vigdís hefnir sín á Ingjaldi",
+    "year": 961,
+    "summary": "Ingjaldur snýr aftur til Goddastaða og heimtar silfrið af Þórði. Vigdís, með stuðningi manna af næstu bæjum, neitar að skila fénu, rekur silfurpokanum í nasir Ingjalds og rekur hann á brott.",
+    "location": "Goddastaðir, Ísland",
+    "characters": ["Vigdís Ingjaldsdóttir", "Ingjaldur Sauðeyjargoði", "Þórður goddi"],
+    "tags": ["hefnd", "mótlæti", "hugrekki", "kvenhetja"]
+  },
+  {
+    "id": 47,
+    "title": "Ásgautur fær frelsi og fé",
+    "year": 961,
+    "summary": "Þegar Ásgautur snýr aftur gefur Vigdís honum frelsi og silfrið sem Þórður hafði þegið fyrir svikin við Þórólf. Ásgautur fer síðar utan og sest að í Danmörku.",
+    "location": "Goddastaðir, Ísland → Danmörk",
+    "characters": ["Ásgautur", "Vigdís Ingjaldsdóttir"],
+    "tags": ["frelsi", "laun", "þrælahald", "ferðalag"]
+  },
+  {
+    "id": 48,
+    "title": "Vigdís skilur við Þórð",
+    "year": 961,
+    "summary": "Vigdís segir skilið við Þórð godda vegna svika hans og fer til frænda sinna. Þórður gellir tekur málinu illa en gerir ekkert í því.",
+    "location": "Goddastaðir → Hvammur (líkl.), Ísland",
+    "characters": ["Vigdís Ingjaldsdóttir", "Þórður goddi", "Þórður gellir"],
+    "tags": ["skilnaður", "svik", "fjölskyldudeilur"]
+  },
+  {
+    "id": 49,
+    "title": "Ólafur pái tekinn í fóstur af Þórði godda",
+    "year": 963,
+    "summary": "Þegar Hvammverjar hóta að heimta helming fjár Þórðar godda leitar hann til Höskulds. Þórður býður að fóstra Ólaf Höskuldsson (þá 7 vetra) og gefa honum allt fé sitt að sér látnum. Höskuldur þiggur þetta til að verja Þórð fyrir kröfum Hvammverja.",
+    "location": "Goddastaðir, Höskuldsstaðir, Ísland",
+    "characters": ["Þórður goddi", "Höskuldur Dala-Kollsson", "Ólafur pái Höskuldsson", "Vigdís Ingjaldsdóttir (ástæða)", "Þórður gellir (nefndur)", "Melkorka"],
+    "tags": ["fóstur", "erfðir", "samningur", "deilur", "stjórnmál"]
+  },
+  {
+    "id": 50,
+    "title": "Andlát og afturganga Hrapps",
+    "year": 965,
+    "summary": "Víga-Hrappur deyr og lætur grafa sig standandi í eldhúsdyrum. Hann gengur aftur, drepur hjón sín og veldur miklum ótta. Bærinn á Hrappsstöðum leggst í eyði. Höskuldur lætur grafa Hrapp upp og færa líkið þar sem enginn er á ferli.",
+    "location": "Hrappstaðir, Ísland",
+    "characters": ["Víga-Hrappur Sumarliðason", "Vigdís Hallsteinsdóttir", "Höskuldur Dala-Kollsson"],
+    "tags": ["dauði", "afturganga", "draugagangur", "ótti"]
+  },
+  {
+    "id": 51,
+    "title": "Hrútur kemur til Íslands, krefst arfs",
+    "year": 965,
+    "summary": "Hrútur Herjólfsson, hirðmaður Haralds Gunnhildarsonar, kemur frá Noregi til Íslands og krefur Höskuld hálfbróður sinn um móðurarf sinn. Höskuldur neitar að borga og verður illt með þeim.",
+    "location": "Kambsnes, Höskuldsstaðir, Ísland",
+    "characters": ["Hrútur Herjólfsson", "Höskuldur Dala-Kollsson", "Haraldur Gunnhildarson (nefndur)", "Gunnhildur drottning (nefnd)"],
+    "tags": ["erfðir", "deilur", "fjölskyldudeilur", "heimkoma"]
+  },
+  {
+    "id": 52,
+    "title": "Hrútur stelur fé, bardagi við húskarla Höskulds",
+    "year": 967,
+    "summary": "Eftir að hafa reynt að heimta arf sinn á þingum án árangurs rænir Hrútur tuttugu nautum af Höskuldi. Húskarlar Höskulds veita eftirför en Hrútur og menn hans verjast, drepa fjóra og særa hina.",
+    "location": "Kambsnes, Orustudalur, Ísland",
+    "characters": ["Hrútur Herjólfsson", "Höskuldur Dala-Kollsson (menn hans)"],
+    "tags": ["þjófnaður", "hefnd", "bardagi", "ættardeilur"]
+  },
+  {
+    "id": 53,
+    "title": "Sáttir gerðar milli Hrúts og Höskulds",
+    "year": 967,
+    "summary": "Eftir fortölur Jórunnar húsfreyju býður Höskuldur Hrúti sættir. Hrútur tekur því vel og þeir bræður semja mál sín og taka upp góða frændsemi. Hrútur flytur á Hrútsstaði.",
+    "location": "Laxárdalur, Ísland",
+    "characters": ["Hrútur Herjólfsson", "Höskuldur Dala-Kollsson", "Jórunn Bjarnardóttir"],
+    "tags": ["sátt", "fjölskyldudeilur", "friður"]
+  },
+  {
+    "id": 54,
+    "title": "Þorleikur Höskuldsson kvænist",
+    "year": 970,
+    "summary": "Þorleikur Höskuldsson, sem verið hefur farmaður og víkingur, sest að á Kambsnesi og kvænist Gjaflaugu Arnbjarnardóttur.",
+    "location": "Kambsnes, Ísland",
+    "characters": ["Þorleikur Höskuldsson", "Gjaflaug Arnbjarnardóttir"],
+    "tags": ["hjónaband", "búseta"]
+  },
+  {
+    "id": 55,
+    "title": "Bárður Höskuldsson kvænist",
+    "year": 972,
+    "summary": "Bárður Höskuldsson, sem einnig hefur verið farmaður, kvænist Ástríði, breiðfirskri konu.",
+    "location": "Höskuldsstaðir (líkl.), Ísland",
+    "characters": ["Bárður Höskuldsson", "Ástríður"],
+    "tags": ["hjónaband"]
+  },
+  {
+    "id": 56,
+    "title": "Deilur um landamerki; Þorleikur drepur lausingja Hrúts",
+    "year": 973,
+    "summary": "Hrútur gefur lausingja sínum, Hrólfi, frelsi og bústað á landi sem reynist vera eign Höskulds. Þegar Hrólfur neitar að borga landskuld að ráði Hrúts, fer Þorleikur Höskuldsson að ráði föður síns og drepur Hrólf og tekur fé hans.",
+    "location": "Landamæri Hrútsstaða og Höskuldsstaða, Ísland",
+    "characters": ["Hrútur Herjólfsson", "Hrólfur (lausleysingi)", "Höskuldur Dala-Kollsson", "Þorleikur Höskuldsson"],
+    "tags": ["deilur", "morð", "landamerki", "þrælahald", "ættardeilur"]
+  },
+  {
+    "id": 57,
+    "title": "Fæðing Bolla Þorleikssonar",
+    "year": 974,
+    "summary": "Þorleikur Höskuldsson og Gjaflaug eignast son sem er nefndur Bolli. Hann er snemma hinn vænlegsti maður.",
+    "location": "Kambsnes, Ísland",
+    "characters": ["Bolli Þorleiksson", "Þorleikur Höskuldsson", "Gjaflaug Arnbjarnardóttir"],
+    "tags": ["fæðing", "ætt"]
+  },
+  {
+    "id": 58,
+    "title": "Andlát Höskulds Dala-Kollssonar",
+    "year": 975,
+    "summary": "Höskuldur Dala-Kollsson veikist í elli sinni. Hann biður syni sína að Ólafur fái þriðjung arfs en Þorleikur neitar. Höskuldur gefur Ólafi þá gullhringinn Hákonarnaut og sverðið konungsnaut sem lögleg gjöf. Höskuldur deyr og er heygður.",
+    "location": "Höskuldsstaðir, Ísland",
+    "characters": ["Höskuldur Dala-Kollsson", "Þorleikur Höskuldsson", "Bárður Höskuldsson", "Ólafur pái Höskuldsson"],
+    "tags": ["dauði", "erfðir", "deilur", "gjöf", "jarðarför"]
+  },
+  {
+    "id": 59,
+    "title": "Erfi Höskulds",
+    "year": 976,
+    "summary": "Ólafur stingur upp á að bíða með erfi föður síns til sumars til að gera það sem veglegast. Þeir bræður halda mikið erfi á Höskuldsstöðum sumarið eftir, með níu hundruð gestum. Ólafur er mestur fyrir þeim bræðrum.",
+    "location": "Höskuldsstaðir, Ísland",
+    "characters": ["Ólafur pái Höskuldsson", "Þorleikur Höskuldsson", "Bárður Höskuldsson"],
+    "tags": ["erfi", "veisla", "virðing", "samvinna"]
+  },
+  {
+    "id": 60,
+    "title": "Ólafur tekur Bolla í fóstur",
+    "year": 977,
+    "summary": "Til að bæta sambandið við Þorleik bróður sinn býðst Ólafur til að fóstra Bolla, son Þorleiks, sem þá er þriggja vetra. Bolli elst upp í Hjarðarholti og verður mikill kærleikur með honum og Kjartani.",
+    "location": "Hjarðarholt, Ísland",
+    "characters": ["Ólafur pái Höskuldsson", "Bolli Þorleiksson", "Þorleikur Höskuldsson", "Kjartan Ólafsson", "Þorgerður Egilsdóttir"],
+    "tags": ["fóstur", "sátt", "fóstbræðralag", "uppvöxtur"]
+  },
+  {
+    "id": 61,
+    "title": "Ólafur pái fer til Noregs",
+    "year": 980,
+    "summary": "Ólafur pái ákveður að fara utan til Noregs eftir meira timbri þar sem hann vill gera stórt eldhús. Hann kaupir skip í Vaðli og siglir til Hörðalands.",
+    "location": "Hjarðarholt → Vaðill → Hörðaland, Noregur",
+    "characters": ["Ólafur pái Höskuldsson", "Þorgerður Egilsdóttir"],
+    "tags": ["ferðalag", "viðskipti", "byggingaráform"]
+  },
+  {
+    "id": 62,
+    "title": "Ólafur fær timbur frá Hákoni jarli",
+    "year": 981,
+    "summary": "Ólafur dvelur hjá Geirmundi gný í Noregi. Að ráði Geirmundar fer Ólafur á fund Hákonar jarls hins ríka og biður um leyfi til að höggva timbur í skógi jarls. Jarl tekur honum vel og gefur honum timbrið og gullrekna öxi.",
+    "location": "Hörðaland → Þrándheimur (líkl.), Noregur",
+    "characters": ["Ólafur pái Höskuldsson", "Geirmundur gnýr", "Hákon jarl Sigurðarson"],
+    "tags": ["konunglegir fundir", "gjöf", "viðskipti", "hirðlíf"]
+  },
+  {
+    "id": 63,
+    "title": "Geirmundur gnýr fer með Ólafi til Íslands",
+    "year": 981,
+    "summary": "Geirmundur gnýr ákveður á laun að fara með Ólafi til Íslands og flytur mikið fé á skip hans. Ólafur er tregur til en lætur hann fara með. Þeir sigla til Íslands og lenda í Laxárósi.",
+    "location": "Noregur → Laxárós, Ísland",
+    "characters": ["Ólafur pái Höskuldsson", "Geirmundur gnýr"],
+    "tags": ["ferðalag", "heimkoma", "laumuspil"]
+  },
+  {
+    "id": 64,
+    "title": "Ólafur byggir eldhús; Úlfur yrkir Húsdrápu",
+    "year": 982,
+    "summary": "Ólafur lætur byggja stórt og vandað eldhús í Hjarðarholti með útskornum myndum úr fornum sögum. Úlfur Uggason yrkir Húsdrápu um verkið.",
+    "location": "Hjarðarholt, Ísland",
+    "characters": ["Ólafur pái Höskuldsson", "Úlfur Uggason"],
+    "tags": ["bygging", "list", "skáldskapur", "húsdrápa"]
+  },
+  {
+    "id": 65,
+    "title": "Geirmundur kvænist Þuríði Ólafsdóttur",
+    "year": 982,
+    "summary": "Geirmundur gnýr, sem dvelur hjá Ólafi, biður Þuríðar dóttur hans. Ólafur neitar en Þorgerður móðir hennar þiggur fé af Geirmundi og fær Ólaf til að samþykkja. Brúðkaup er haldið í hinu nýja eldhúsi.",
+    "location": "Hjarðarholt, Ísland",
+    "characters": ["Geirmundur gnýr", "Þuríður Ólafsdóttir", "Ólafur pái Höskuldsson", "Þorgerður Egilsdóttir"],
+    "tags": ["bónorð", "hjónaband", "mútur", "fjölskyldudeilur"]
+  },
+  {
+    "id": 66,
+    "title": "Geirmundur fer frá Þuríði; hún stelur Fótbít",
+    "year": 985,
+    "summary": "Eftir þriggja ára sambúð vill Geirmundur fara frá Íslandi en skilja Þuríði og Gróu dóttur þeirra eftir félausar. Þegar Geirmundur bíður byrjar stelst Þuríður um borð, skilur dótturina eftir í rúmi hans en stelur sverðinu Fótbít. Hún neitar að skila sverðinu þrátt fyrir féboð Geirmundar.",
+    "location": "Hjarðarholt → Öxney, Breiðafjörður, Ísland",
+    "characters": ["Geirmundur gnýr", "Þuríður Ólafsdóttir", "Gróa Geirmundsdóttir", "Ólafur pái Höskuldsson"],
+    "tags": ["skilnaður", "þjófnaður", "hefnd", "sverð", "fjölskyldudeilur"]
+  },
+  {
+    "id": 67,
+    "title": "Geirmundur drukknar",
+    "year": 985,
+    "summary": "Geirmundur siglir frá Íslandi en skip hans ferst í stormi fyrir Stöðum í Noregi og allir um borð drukkna.",
+    "location": "Ísland → Staður, Noregur",
+    "characters": ["Geirmundur gnýr"],
+    "tags": ["ferðalag", "dauði", "drukknun", "skipbrot"]
+  },
+  {
+    "id": 68,
+    "title": "Þuríður gefur Bolla Fótbít",
+    "year": 986,
+    "summary": "Þuríður Ólafsdóttir gefur Bolla Þorleikssyni, fóstbróður sínum, sverðið Fótbít. Bolli ber sverðið lengi síðan.",
+    "location": "Hjarðarholt, Ísland",
+    "characters": ["Þuríður Ólafsdóttir", "Bolli Þorleiksson"],
+    "tags": ["gjöf", "sverð", "fóstbræðralag"]
+  },
+  {
+    "id": 69,
+    "title": "Þuríður giftist Guðmundi Sölmundarsyni",
+    "year": 990,
+    "summary": "Þuríður Ólafsdóttir giftist Guðmundi Sölmundarsyni frá Ásbjarnarnesi í Víðidal. Þau eiga marga syni og dætur.",
+    "location": "Ásbjarnarnes, Víðidalur, Ísland",
+    "characters": ["Þuríður Ólafsdóttir", "Guðmundur Sölmundarson"],
+    "tags": ["hjónaband", "ætt"]
+  },
+  {
+    "id": 70,
+    "title": "Þorbjörg digra giftist tvisvar",
+    "year": 992,
+    "summary": "Þorbjörg Ólafsdóttir, kölluð digra, giftist Ásgeiri Snartarsyni í Vatnsfirði og síðar Vermundi Þorgrímssyni.",
+    "location": "Vatnsfjörður, Ísland",
+    "characters": ["Þorbjörg digra Ólafsdóttir", "Ásgeir Snartarson", "Vermundur Þorgrímsson"],
+    "tags": ["hjónaband", "ætt"]
+  },
+  {
+    "id": 71,
+    "title": "Bergþóra Ólafsdóttir giftist Þórhalli goða",
+    "year": 994,
+    "summary": "Bergþóra Ólafsdóttir giftist Þórhalli goða Oddasyni í Djúpafirði.",
+    "location": "Djúpafjörður, Ísland",
+    "characters": ["Bergþóra Ólafsdóttir", "Þórhallur Oddason goði"],
+    "tags": ["hjónaband", "ætt"]
+  },
+  {
+    "id": 72,
+    "title": "Uxinn Harri og draumur Ólafs",
+    "year": 995,
+    "summary": "Ólafur pái á frægan uxa, Harra, með fjögur horn. Eftir að Ólafur lætur drepa hann átján vetra gamlan dreymir hann að kona hóti að hefna sonar síns með því að láta Ólaf sjá þann son sinn sem honum er kærastur alblóðgan.",
+    "location": "Hjarðarholt, Ísland",
+    "characters": ["Ólafur pái Höskuldsson", "Harri (uxi)", "Draugkona"],
+    "tags": ["dýr", "draumar", "spádómur", "fyrirboði", "hefnd"]
+  },
+  {
+    "id": 73,
+    "title": "Ósvífur Helgason og fjölskylda kynnt",
+    "year": 975,
+    "summary": "Kynntur er Ósvífur Helgason, spekingur sem býr að Laugum í Sælingsdal. Kona hans er Þórdís Þjóðólfsdóttir. Börn þeirra eru Óspakur, Helgi, Vandráður, Torráður, Þórólfur og Guðrún.",
+    "location": "Laugar, Sælingsdalur, Ísland",
+    "characters": ["Ósvífur Helgason", "Þórdís Þjóðólfsdóttir", "Óspakur Ósvífursson", "Helgi Ósvífursson", "Vandráður Ósvífursson", "Torráður Ósvífursson", "Þórólfur Ósvífursson", "Guðrún Ósvífursdóttir"],
+    "tags": ["ætt", "kynning", "fjölskyldulíf"]
+  },
+  {
+    "id": 74,
+    "title": "Guðrún Ósvífursdóttir kynnt",
+    "year": 985,
+    "summary": "Guðrún Ósvífursdóttir er lýst sem vænstri konu á Íslandi, viturri, málsnjallri, kurteisri og örlyndri.",
+    "location": "Laugar, Sælingsdalur, Ísland",
+    "characters": ["Guðrún Ósvífursdóttir"],
+    "tags": ["kynning", "fegurð", "viska", "eiginleikar"]
+  },
+  {
+    "id": 75,
+    "title": "Ósvífur kaupir land af Þórarni í Tungu",
+    "year": 986,
+    "summary": "Ósvífur, sem hefur landeklu en mikinn búfénað, kaupir mikið land af Þórarni í Tungu, allt frá Gnúpuskörðum inn dalinn beggja vegna að Stakkagili.",
+    "location": "Sælingsdalur (Tunga, Laugar), Ísland",
+    "characters": ["Ósvífur Helgason", "Þórarinn í Tungu"],
+    "tags": ["landakaup", "viðskipti", "búskapur"]
+  },
+  {
+    "id": 76,
+    "title": "Þórður Ingunnarson kynntur",
+    "year": 987,
+    "summary": "Þórður Ingunnarson, vænn og vasklegur en sakamaður mikill, býr á Hóli í Saurbæ með mágnum sínum Þorkeli hvelpi og Knúti. Hann er giftur Auði systur þeirra en unir henni lítt.",
+    "location": "Hóll, Saurbær, Ísland",
+    "characters": ["Þórður Ingunnarson", "Auður Þorkelsdóttir", "Þorkell hvelpur", "Knútur"],
+    "tags": ["kynning", "hjónaband", "eiginleikar"]
+  },
+  {
+    "id": 77,
+    "title": "Gestur Oddleifsson kynntur",
+    "year": 987,
+    "summary": "Gestur Oddleifsson frá Haga á Barðaströnd, mikill höfðingi, spekingur og framsýnn, er kynntur. Hann gistir jafnan á Hóli á leið til þings.",
+    "location": "Hagi, Barðaströnd; Hóll, Saurbær, Ísland",
+    "characters": ["Gestur Oddleifsson"],
+    "tags": ["kynning", "höfðingi", "viska", "framsýni"]
+  },
+  {
+    "id": 78,
+    "title": "Draumaráðning Gests",
+    "year": 988,
+    "summary": "Guðrún hittir Gest við Sælingsdalslaug og biður hann að ráða fjóra drauma sína. Gestur túlkar þá sem spá um fjóra eiginmenn hennar og örlög þeirra.",
+    "location": "Sælingsdalslaug, Ísland",
+    "characters": ["Guðrún Ósvífursdóttir", "Gestur Oddleifsson"],
+    "tags": ["draumar", "spádómur", "örlög", "hjónaband"]
+  },
+  {
+    "id": 79,
+    "title": "Spádómur Gests um Kjartan og Bolla",
+    "year": 988,
+    "summary": "Gestur hittir Ólaf páa og sér syni hans, Kjartan og Bolla. Hann nefnir þá og aðra Ólafssyni. Aðspurður spáir hann Kjartani mestri frægð en segir síðar í hljóði við son sinn að Bolli muni standa yfir höfuðsvörðum Kjartans og vekja honum bana.",
+    "location": "Við Laxá (nálægt Hjarðarholti), Ísland",
+    "characters": ["Gestur Oddleifsson", "Ólafur pái Höskuldsson", "Kjartan Ólafsson", "Bolli Þorleiksson", "Þórður hinn lági Gestsson"],
+    "tags": ["spádómur", "örlög", "fóstbræðralag", "átök", "fyrirboði"]
+  },
+  {
+    "id": 80,
+    "title": "Guðrún giftist Þorvaldi Halldórssyni",
+    "year": 989,
+    "summary": "Þorvaldur Halldórsson úr Garpsdal biður Guðrúnar (15 vetra) á alþingi. Ósvífur samþykkir þrátt fyrir ójafnræði þeirra. Guðrún ræður helmingi fjár. Brúðkaup er í Garpsdal.",
+    "location": "Alþingi → Garpsdalur, Ísland",
+    "characters": ["Guðrún Ósvífursdóttir", "Þorvaldur Halldórsson", "Ósvífur Helgason"],
+    "tags": ["hjónaband", "bónorð", "fjármál", "ójafnræði"]
+  },
+  {
+    "id": 81,
+    "title": "Skilnaður Guðrúnar og Þorvalds",
+    "year": 991,
+    "summary": "Guðrún er erfið í gripakaupum. Þegar Þorvaldur slær hana kinnhest ráðleggur Þórður Ingunnarson henni að gera honum höfuðsmáa skyrtu og segja skilið við hann. Guðrún gerir það og fer heim til Lauga. Hún fær helming fjár.",
+    "location": "Garpsdalur → Laugar, Ísland",
+    "characters": ["Guðrún Ósvífursdóttir", "Þorvaldur Halldórsson", "Þórður Ingunnarson"],
+    "tags": ["skilnaður", "heimilisofbeldi", "ráðgjöf", "lög"]
+  },
+  {
+    "id": 82,
+    "title": "Þórður Ingunnarson skilur við Auði",
+    "year": 992,
+    "summary": "Á leið til þings spyr Guðrún Þórð hvort Auður kona hans gangi í brókum. Á þingi nefnir Þórður sér votta og segir skilið við Auði á þeirri forsendu. Bræðrum Auðar líkar illa en gera ekkert.",
+    "location": "Alþingi, Ísland",
+    "characters": ["Þórður Ingunnarson", "Guðrún Ósvífursdóttir", "Auður Þorkelsdóttir", "Þorkell hvelpur", "Knútur"],
+    "tags": ["skilnaður", "eggjan", "lög", "kynjahlutverk"]
+  },
+  {
+    "id": 83,
+    "title": "Þórður kvænist Guðrúnu",
+    "year": 992,
+    "summary": "Eftir skilnaðinn fer Þórður til féskipta í Saurbæ og síðan til Lauga og biður Guðrúnar. Hún samþykkir og brúðkaup er haldið að Laugum. Samfarir þeirra eru góðar.",
+    "location": "Saurbær → Laugar, Ísland",
+    "characters": ["Þórður Ingunnarson", "Guðrún Ósvífursdóttir", "Ósvífur Helgason"],
+    "tags": ["hjónaband", "bónorð", "ást"]
+  },
+  {
+    "id": 84,
+    "title": "Auður særir Þórð",
+    "year": 993,
+    "summary": "Auður fréttir að Þórður sé einn heima að Laugum. Hún ríður þangað um nótt, laumast inn í lokrekkju hans og leggur til hans með saxi. Hún særir hann á hægri hendi og báðum geirvörtum áður en hún flýr. Þórður bannar eftirför.",
+    "location": "Hvammsdalur (sel) → Laugar, Ísland",
+    "characters": ["Auður Þorkelsdóttir", "Þórður Ingunnarson", "Ósvífur Helgason"],
+    "tags": ["hefnd", "árás", "sár", "kvenhetja"]
+  },
+  {
+    "id": 85,
+    "title": "Kotkell og fjölskylda kynnt",
+    "year": 994,
+    "summary": "Kotkell, Gríma kona hans og synir þeirra Hallbjörn slíkisteinsauga og Stígandi, fjölkunnugir Suðureyingar, setjast að á Urðum í Skálmarfirði með leyfi Hallsteins goða. Þau eru óvinsæl.",
+    "location": "Urðir, Skálmarfjörður, Ísland",
+    "characters": ["Kotkell", "Gríma", "Hallbjörn slíkisteinsauga", "Stígandi", "Hallsteinn goði"],
+    "tags": ["landnám", "fjölkynngi", "seiður", "óvinsældir"]
+  },
+  {
+    "id": 86,
+    "title": "Þórður sækir Kotkel til saka",
+    "year": 995,
+    "summary": "Ingunn, móðir Þórðar, kvartar undan Kotkatli og fjölskyldu. Þórður fer vestur, stefnir þeim fyrir þjófnað og fjölkynngi og gerir þau skógarmenn. Hann siglir síðan brott með fé móður sinnar.",
+    "location": "Skálmarnes → Breiðafjörður, Ísland",
+    "characters": ["Þórður Ingunnarson", "Ingunn", "Kotkell", "Gríma", "Hallbjörn slíkisteinsauga", "Stígandi"],
+    "tags": ["lög", "ákæra", "fjölkynngi", "þjófnaður", "útlegð"]
+  },
+  {
+    "id": 87,
+    "title": "Þórður Ingunnarson drukknar",
+    "year": 995,
+    "summary": "Kotkell og fjölskylda hans magna seið gegn Þórði. Mikil hríð skellur á. Skip Þórðar hvolfir í Kolkistustraumi eftir að hafa siglt á sker og allir drukkna. Lík þeirra rekur á land og eru þau heygð á Haugsnesi.",
+    "location": "Kolkistustraumur, Breiðafjörður (Haugsnes), Ísland",
+    "characters": ["Þórður Ingunnarson", "Ingunn", "Kotkell", "Gríma", "Hallbjörn slíkisteinsauga", "Stígandi"],
+    "tags": ["dauði", "drukknun", "seiður", "fjölkynngi", "hefnd"]
+  },
+  {
+    "id": 88,
+    "title": "Þórður köttur fæðist",
+    "year": 996,
+    "summary": "Guðrún fæðir son eftir lát Þórðar. Hann er nefndur Þórður og síðar kallaður köttur.",
+    "location": "Laugar, Ísland",
+    "characters": ["Guðrún Ósvífursdóttir", "Þórður köttur Þórðarson"],
+    "tags": ["fæðing", "eftirmáli"]
+  },
+  {
+    "id": 89,
+    "title": "Kotkell og fjölskylda rekin vestan",
+    "year": 996,
+    "summary": "Gestur Oddleifsson hótar Hallsteini goða að drepa Kotkel og fjölskyldu hans. Hallsteinn rekur þau þá í burtu og bannar þeim að nema staðar vestan Dalaheiðar.",
+    "location": "Skálmarfjörður → Ísland (austur)",
+    "characters": ["Kotkell", "Gríma", "Hallbjörn slíkisteinsauga", "Stígandi", "Gestur Oddleifsson", "Hallsteinn goði"],
+    "tags": ["brottrekstur", "fjölkynngi", "hótun"]
+  },
+  {
+    "id": 90,
+    "title": "Þorleikur veitir Kotkatli land",
+    "year": 996,
+    "summary": "Kotkell og fjölskylda koma til Þorleiks Höskuldssonar á Kambsnesi. Þorleikur kaupir af þeim góð stóðhross gegn því að veita þeim bústað á Leiðólfsstöðum í Laxárdal, þrátt fyrir óvild Laugamanna.",
+    "location": "Kambsnes → Leiðólfsstaðir, Laxárdalur, Ísland",
+    "characters": ["Kotkell", "Gríma", "Þorleikur Höskuldsson"],
+    "tags": ["landvist", "viðskipti", "ágreiningur", "fjölkynngi"]
+  },
+  {
+    "id": 91,
+    "title": "Eldgrímur reynir að kaupa hross Þorleiks",
+    "year": 997,
+    "summary": "Eldgrímur frá Eldgrímsstöðum í Borgarfirði kemur á alþingi og reynir að kaupa stóðhrossin af Þorleiki sem hann fékk frá Kotkatli. Þorleikur neitar þrátt fyrir hátt tilboð. Eldgrímur hótar að sækja hrossin síðar.",
+    "location": "Alþingi, Ísland",
+    "characters": ["Eldgrímur", "Þorleikur Höskuldsson"],
+    "tags": ["viðskipti", "deilur", "hótun", "hross"]
+  },
+  {
+    "id": 92,
+    "title": "Hrútur drepur Eldgrím",
+    "year": 998,
+    "summary": "Eldgrímur kemur og rekur hrossin brott. Hrútur Herjólfsson (þá áttræður) sér þetta, fer á móti Eldgrími og reynir að semja. Eldgrímur neitar og þá drepur Hrútur hann með bryntrölli sínu.",
+    "location": "Við Hrútsstaði (Eldgrímsholt), Ísland",
+    "characters": ["Hrútur Herjólfsson", "Eldgrímur"],
+    "tags": ["morð", "vörn", "hross", "öldrun"]
+  },
+  {
+    "id": 93,
+    "title": "Þorleikur biður Kotkel að hefna sín á Hrúti",
+    "year": 998,
+    "summary": "Þorleiki líkar illa að Hrútur hafi drepið Eldgrím þar sem hann telur sig hafa misst af tækifæri til að sýna hreysti sína. Hann biður Kotkel og fjölskyldu að gera Hrúti einhverja svívirðing.",
+    "location": "Kambsnes, Ísland",
+    "characters": ["Þorleikur Höskuldsson", "Kotkell", "Gríma", "Hrútur Herjólfsson"],
+    "tags": ["hefnd", "eggjan", "fjölkynngi", "ættardeilur"]
+  },
+  {
+    "id": 94,
+    "title": "Kotkell og fjölskylda drepa Kára Hrútsson með seið",
+    "year": 998,
+    "summary": "Kotkell, Gríma og synir þeirra fara að Hrútsstöðum um nótt og magna seið. Þrátt fyrir viðvörun Hrúts lítur Kári sonur hans (12 vetra) út og fellur þegar dauður niður.",
+    "location": "Hrútsstaðir, Ísland",
+    "characters": ["Kotkell", "Gríma", "Hallbjörn slíkisteinsauga", "Stígandi", "Hrútur Herjólfsson", "Kári Hrútsson"],
+    "tags": ["seiður", "fjölkynngi", "morð", "hefnd", "dauði"]
+  },
+  {
+    "id": 95,
+    "title": "Ólafur og Hrútur drepa Kotkel, Grímu og Hallbjörn",
+    "year": 998,
+    "summary": "Hrútur segir Ólafi páa frá. Þeir fara með fimmtán menn að Leiðólfsstöðum. Hallbjörn er handtekinn. Kotkell og Gríma flýja upp á háls milli Haukadals og Laxárdals en eru þar grýtt í hel (Skrattavarði). Hallbirni er drekkt í sjó eftir að hafa spáð óförum Þorleiki og eftirmönnum hans á Kambsnesi.",
+    "location": "Leiðólfsstaðir → Skrattavarði → Breiðafjörður, Ísland",
+    "characters": ["Hrútur Herjólfsson", "Ólafur pái Höskuldsson", "Kotkell", "Gríma", "Hallbjörn slíkisteinsauga", "Þorleikur Höskuldsson (nefndur)"],
+    "tags": ["hefnd", "morð", "fjölkynngi", "aftaka", "spádómur"]
+  },
+  {
+    "id": 96,
+    "title": "Stígandi drepinn",
+    "year": 999,
+    "summary": "Stígandi, sem slapp undan, gerist útilegumaður. Ambátt í Hundadal kemur upp um hann. Ólafur pái fer með menn, þeir handtaka Stíganda, draga belg á höfuð honum en hann nær að sjá út og brennir jörð með augnaráði sínu (Brenna). Hann er síðan grýttur í hel.",
+    "location": "Hundadalur (Brenna), Ísland",
+    "characters": ["Stígandi", "Ólafur pái Höskuldsson", "Þórður í Hundadal", "Ambátt Þórðar"],
+    "tags": ["hefnd", "morð", "aftaka", "útilegumenn", "fjölkynngi"]
+  },
+  {
+    "id": 97,
+    "title": "Ólafur ráðleggur Þorleiki að fara utan",
+    "year": 999,
+    "summary": "Ólafur pái ráðleggur Þorleiki bróður sínum að fara utan til að forðast frekari átök við Hrút og syni hans. Þorleikur samþykkir þetta.",
+    "location": "Laxárdalur, Ísland",
+    "characters": ["Ólafur pái Höskuldsson", "Þorleikur Höskuldsson", "Hrútur Herjólfsson (nefndur)"],
+    "tags": ["ráðgjöf", "sáttamiðlun", "brottför", "ættardeilur"]
+  },
+  {
+    "id": 98,
+    "title": "Þorleikur fer utan",
+    "year": 999,
+    "summary": "Þorleikur selur jarðir sínar, kaupir skip og siglir utan með konu sinni. Hann sest að í Gautlandi og kemur ekki aftur.",
+    "location": "Ísland → Noregur → Danmörk → Gautland",
+    "characters": ["Þorleikur Höskuldsson", "Gjaflaug Arnbjarnardóttir"],
+    "tags": ["ferðalag", "brottför", "útlegð?"]
+  },
+  {
+    "id": 99,
+    "title": "Kjartan ákveður að fara utan",
+    "year": 999,
+    "summary": "Kjartan Ólafsson fer suður til Borgar og kaupir skipshlut af Kálfi Ásgeirssyni með það fyrir augum að sigla utan. Bolli fóstbróðir hans ætlar með honum.",
+    "location": "Hjarðarholt → Borg → Gufuárós, Ísland",
+    "characters": ["Kjartan Ólafsson", "Bolli Þorleiksson", "Kálfur Ásgeirsson", "Þorsteinn Egilsson"],
+    "tags": ["ferðalag", "ákvörðun", "vinátta", "viðskipti"]
+  },
+  {
+    "id": 100,
+    "title": "Guðrún vill fara með Kjartani",
+    "year": 999,
+    "summary": "Kjartan segir Guðrúnu frá fyrirhugaðri utanför. Hún biður um að fara með honum en hann neitar og biður hana bíða sín í þrjá vetur. Þau skilja ósátt.",
+    "location": "Laugar, Ísland",
+    "characters": ["Kjartan Ólafsson", "Guðrún Ósvífursdóttir"],
+    "tags": ["ást", "deilur", "loforð", "bið"]
+  },
+  {
+    "id": 101,
+    "title": "Kjartan og Bolli sigla til Noregs",
+    "year": 999,
+    "summary": "Kjartan og Bolli sigla til Noregs með tíu förunautum. Þeir koma til Niðaróss í Þrándheimi og frétta að Ólafur Tryggvason sé konungur og boði kristni.",
+    "location": "Ísland → Niðarós, Þrándheimur, Noregur",
+    "characters": ["Kjartan Ólafsson", "Bolli Þorleiksson", "Kálfur Ásgeirsson"],
+    "tags": ["ferðalag", "landkoma", "trúskipti", "stjórnmál"]
+  },
+  {
+    "id": 102,
+    "title": "Kjartan hittir Ólaf konung á sundi",
+    "year": 999,
+    "summary": "Kjartan keppir á sundi við óþekktan mann sem reynist vera Ólafur konungur Tryggvason. Konungur gefur Kjartani skikkju að skilnaði.",
+    "location": "Niðará, Niðarós, Noregur",
+    "characters": ["Kjartan Ólafsson", "Ólafur Tryggvason", "Bolli Þorleiksson"],
+    "tags": ["kynni", "íþróttir", "konunglegir fundir", "gjöf"]
+  },
+  {
+    "id": 103,
+    "title": "Kjartan hótar að brenna konung inni",
+    "year": 999,
+    "summary": "Þegar konungur þrýstir á Íslendinga að taka kristni hótar Kjartan í hálfkæringi að brenna konung inni. Konungur fréttir þetta en fyrirgefur Kjartani þar sem hann gengst hreinskilnislega við orðum sínum.",
+    "location": "Niðarós, Noregur",
+    "characters": ["Kjartan Ólafsson", "Ólafur Tryggvason", "Bolli Þorleiksson"],
+    "tags": ["trúskipti", "andóf", "hótun", "fyrirgefning", "hugrekki"]
+  },
+  {
+    "id": 104,
+    "title": "Kjartan og Bolli taka kristni",
+    "year": 999,
+    "summary": "Eftir að hafa séð jólahald kristinna manna ákveður Kjartan að taka skírn. Hann, Bolli og föruneyti þeirra eru skírðir annan dag jóla. Kjartan gerist handgenginn konungi.",
+    "location": "Niðarós, Noregur",
+    "characters": ["Kjartan Ólafsson", "Bolli Þorleiksson", "Ólafur Tryggvason", "Hallfreður vandræðaskáld (nefndur)"],
+    "tags": ["trúskipti", "skírn", "hirðlíf", "jól"]
+  },
+  {
+    "id": 105,
+    "title": "Kjartan tekinn í gíslíngu",
+    "year": 1000,
+    "summary": "Þegar fréttist að Ísland hefur tekið kristni á Alþingi gefur Ólafur konungur flestum Íslendingum fararleyfi en heldur Kjartani, Halldóri Guðmundarsyni, Kolbeini Þórðarsyni og Svertingi Runólfssyni eftir sem gíslum til tryggingar.",
+    "location": "Niðarós, Noregur",
+    "characters": ["Kjartan Ólafsson", "Ólafur Tryggvason", "Halldór Guðmundarson", "Kolbeinn Þórðarson", "Svertingur Runólfsson", "Bolli Þorleiksson", "Gissur hvíti", "Hjalti Skeggjason", "Ingibjörg Tryggvadóttir (nefnd)"],
+    "tags": ["gíslar", "stjórnmál", "trúskipti", "bið"]
+  },
+  {
+    "id": 106,
+    "title": "Heimkoma Bolla; tal við Guðrúnu",
+    "year": 1000,
+    "summary": "Bolli fer heim til Íslands með Gissuri og Hjalta. Hann hittir Guðrúnu og segir henni frá stöðu Kjartans og gefur sterklega í skyn að Kjartan muni kvænast Ingibjörgu konungssystur í Noregi.",
+    "location": "Noregur → Laugar, Ísland",
+    "characters": ["Bolli Þorleiksson", "Guðrún Ósvífursdóttir", "Kjartan Ólafsson (umræddur)", "Ingibjörg Tryggvadóttir (umrædd)", "Ólafur pái Höskuldsson"],
+    "tags": ["heimkoma", "slúður", "ástarmál", "afbrýði", "fréttir"]
+  },
+  {
+    "id": 107,
+    "title": "Bolli kvænist Guðrúnu",
+    "year": 1001,
+    "summary": "Bolli biður Guðrúnar með stuðningi Ósvífurs og bræðra hennar. Guðrún er treg þar sem hún vill bíða Kjartans en lætur undan þrýstingi. Brúðkaup er haldið að Laugum um veturnætur. Samfarir þeirra eru ekki ástríkar af hennar hendi.",
+    "location": "Laugar, Ísland",
+    "characters": ["Bolli Þorleiksson", "Guðrún Ósvífursdóttir", "Ósvífur Helgason", "Ólafssynir", "Ólafur pái Höskuldsson"],
+    "tags": ["hjónaband", "bónorð", "ást", "þrýstingur", "svik?"]
+  },
+  {
+    "id": 108,
+    "title": "Kjartan fær leyfi, kveður Ingibjörgu",
+    "year": 1003,
+    "summary": "Kjartan fær loks fararleyfi frá Ólafi konungi (sem lést 1000, sagan ónákvæm hér, líklega Hákon jarl eða Ólafur helgi nú?). Hann kveður Ingibjörgu konungssystur, sem gefur honum dýrmætan motur (höfuðfat) handa Guðrúnu. Konungur gefur honum skreytt sverð (Konungsnaut).",
+    "location": "Niðarós, Noregur",
+    "characters": ["Kjartan Ólafsson", "Ólafur Tryggvason (eða eftirmaður)", "Ingibjörg Tryggvadóttir"],
+    "tags": ["kveðja", "gjöf", "ást", "heimför", "sverð"]
+  },
+  {
+    "id": 109,
+    "title": "Kjartan kemur heim; fréttir af brúðkaupi Bolla",
+    "year": 1003,
+    "summary": "Kjartan og Kálfur Ásgeirsson sigla til Íslands og lenda í Hvítá. Ólafur faðir hans fagnar honum. Kjartan fréttir af hjónabandi Bolla og Guðrúnar en bregður sér ekki við.",
+    "location": "Noregur → Hvítá, Borgarfjörður → Hjarðarholt, Ísland",
+    "characters": ["Kjartan Ólafsson", "Kálfur Ásgeirsson", "Ólafur pái Höskuldsson"],
+    "tags": ["heimkoma", "fréttir", "ástarmál", "sjálfsstjórn"]
+  },
+  {
+    "id": 110,
+    "title": "Hrefna mátar moturinn; Kjartan biður hennar",
+    "year": 1003,
+    "summary": "Þegar Ásgeir æðikollur og Hrefna dóttir hans heimsækja Kjartan við skipið mátar Hrefna moturinn frá Ingibjörgu. Kjartan sér það og biður hennar þegar í stað. Hrefna samþykkir.",
+    "location": "Hvítárós, Ísland",
+    "characters": ["Kjartan Ólafsson", "Hrefna Ásgeirsdóttir", "Kálfur Ásgeirsson", "Þuríður Ólafsdóttir", "Ásgeir æðikollur"],
+    "tags": ["bónorð", "ást?", "ákvörðun", "gjöf", "fegurð"]
+  },
+  {
+    "id": 111,
+    "title": "Brúðkaup Kjartans og Hrefnu",
+    "year": 1004,
+    "summary": "Kjartan heldur stórveislu í Hjarðarholti og kvænist Hrefnu. Hann gefur henni moturinn í línfé. Kjartan er kátur og segir frá ferðum sínum. Ólafur og Kjartan fá mikið lof fyrir veisluna.",
+    "location": "Hjarðarholt, Ísland",
+    "characters": ["Kjartan Ólafsson", "Hrefna Ásgeirsdóttir", "Ólafur pái Höskuldsson", "Ásgeir æðikollur", "Kálfur Ásgeirsson", "Guðmundur Sölmundarson", "Hallur Guðmundarson"],
+    "tags": ["hjónaband", "veisla", "gjöf", "virðing", "sögusagnir"]
+  },
+  {
+    "id": 112,
+    "title": "Kjartan lítillækkar Guðrúnu",
+    "year": 1004,
+    "summary": "Í haustboði í Hjarðarholti ákveður Kjartan að Hrefna skuli skipa öndvegið, sem Guðrún hafði áður gert. Guðrún reiðist í hljóði.",
+    "location": "Hjarðarholt, Ísland",
+    "characters": ["Kjartan Ólafsson", "Guðrún Ósvífursdóttir", "Hrefna Ásgeirsdóttir", "Bolli Þorleiksson", "Ólafur pái Höskuldsson", "Ósvífur Helgason"],
+    "tags": ["ágreiningur", "niðurlæging", "afbrýði", "veisla", "sæmd"]
+  },
+  {
+    "id": 113,
+    "title": "Sverðið Konungsnautur horfið",
+    "year": 1004,
+    "summary": "Á meðan á boðinu stendur hverfur sverðið Konungsnaut úr rúmi Kjartans. Ólafur lætur njósna um brottför Laugamanna. Án hvíti finnur sverðið falið í keldu nálægt Laugum; Þórólfur Ósvífursson er grunaður. Kjartan þegir yfir málinu að ráði föður síns.",
+    "location": "Hjarðarholt → Nálægt Laugum, Ísland",
+    "characters": ["Kjartan Ólafsson", "Ólafur pái Höskuldsson", "Án hvíti", "Þórólfur Ósvífursson", "Þórarinn í Tungu"],
+    "tags": ["þjófnaður", "sverð", "ættardeilur", "spenna", "leynd"]
+  },
+  {
+    "id": 114,
+    "title": "Moturinn hverfur að Laugum",
+    "year": 1004,
+    "summary": "Í veislu að Laugum um veturnætur hverfur moturinn dýri sem Hrefna hafði meðferðis að áeggjan Þorgerðar. Kjartan kennir Laugamönnum um og hótar hefndum. Guðrún svarar í háði og gefur í skyn að hún standi á bak við hvarfið.",
+    "location": "Laugar, Ísland",
+    "characters": ["Kjartan Ólafsson", "Hrefna Ásgeirsdóttir", "Guðrún Ósvífursdóttir", "Bolli Þorleiksson", "Ólafur pái Höskuldsson", "Þorgerður Egilsdóttir"],
+    "tags": ["þjófnaður", "hefnd", "ögrun", "ættardeilur", "gjöf"]
+  },
+  {
+    "id": 115,
+    "title": "Ásgeir æðikollur andast",
+    "year": 1005,
+    "summary": "Ásgeir æðikollur, faðir Hrefnu og Kálfs, andast.",
+    "location": "Víðidalur (líkl.), Ísland",
+    "characters": ["Ásgeir æðikollur"],
+    "tags": ["dauði"]
+  },
+  {
+    "id": 116,
+    "title": "Kjartan lokar Laugamenn inni",
+    "year": 1005,
+    "summary": "Til að hefna fyrir þjófnaðina og svívirðingarnar fer Kjartan með sextíu menn að Laugum, lokar bænum og heldur Ósvífurssonum og Bolla innilokuðum í þrjár nætur.",
+    "location": "Laugar, Sælingsdalur, Ísland",
+    "characters": ["Kjartan Ólafsson", "Bolli Þorleiksson", "Ósvífurssynir"],
+    "tags": ["hefnd", "svívirðing", "ættardeilur", "valdbeiting"]
+  },
+  {
+    "id": 117,
+    "title": "Kjartan kaupir Tungu",
+    "year": 1006,
+    "summary": "Þegar Kjartan fréttir að Bolli og Guðrún ætli að kaupa jörðina Tungu í Sælingsdal, ríður hann þangað og þvingar bóndann Þórarin til að selja sér jörðina í staðinn.",
+    "location": "Tunga, Sælingsdalur, Ísland",
+    "characters": ["Kjartan Ólafsson", "Þórarinn í Tungu", "Bolli Þorleiksson (umræddur)", "Guðrún Ósvífursdóttir (umrædd)"],
+    "tags": ["landakaup", "ögrun", "ættardeilur", "valdabarátta"]
+  },
+  {
+    "id": 118,
+    "title": "Guðrún eggjar Bolla og bræður sína",
+    "year": 1006,
+    "summary": "Eftir landakaupin og fyrri svívirðingar eggjar Guðrún Bolla og bræður sína harðlega til hefnda á Kjartani og segir þá lítilmenni ef þeir láta hann komast upp með þetta.",
+    "location": "Laugar, Ísland",
+    "characters": ["Guðrún Ósvífursdóttir", "Bolli Þorleiksson", "Ósvífurssynir"],
+    "tags": ["eggjan", "hefnd", "ættardeilur", "sæmd"]
+  },
+  {
+    "id": 119,
+    "title": "Kjartan fellur fyrir Bolla",
+    "year": 1006,
+    "summary": "Bolli og Ósvífurssynir sitja fyrir Kjartani í Svínadal. Eftir harða vörn Kjartans og Áns svarta, þar sem Kjartan drepur Guðlaug og særir Þórólf, neyðist Bolli (eftir eggjan Óspaks) til að veita Kjartani banasár með sverðinu Fótbít. Kjartan deyr í örmum Bolla.",
+    "location": "Svínadalur (Hafragil), Ísland",
+    "characters": ["Kjartan Ólafsson", "Bolli Þorleiksson", "Ósvífurssynir (Óspakur, Helgi, Vandráður, Torráður, Þórólfur)", "Guðlaugur Ósvífursson", "Án svarti", "Þórhöllusynir (Oddur, Steinn)"],
+    "tags": ["morð", "hefnd", "bardagi", "svik?", "fóstbræðralag", "dauði", "ættardeilur"]
+  },
+  {
+    "id": 120,
+    "title": "Ólafssynir drepa Þórhöllusonu",
+    "year": 1006,
+    "summary": "Þegar Bolli sendir Þórhöllusonu til Snorra goða eftir liði, sendir Ólafur pái syni sína á eftir þeim. Þeir ná þeim á Hvammsfirði og drepa þá báða.",
+    "location": "Hvammsfjörður, Ísland",
+    "characters": ["Halldór Ólafsson", "Steinþór Ólafsson", "Helgi Ólafsson", "Höskuldur Ólafsson", "Oddur Þórhölluson", "Steinn Þórhölluson", "Ólafur pái Höskuldsson"],
+    "tags": ["hefnd", "morð", "ættardeilur"]
+  },
+  {
+    "id": 121,
+    "title": "Sáttagjörð eftir víg Kjartans",
+    "year": 1007,
+    "summary": "Ólafur pái stýrir sáttum eftir víg Kjartans. Ósvífurssynir eru gerðir sekir og fara úr landi. Bolli greiðir fébætur en fær að vera kyrr í héraði að áeggjan Ólafs, þvert gegn vilja sona hans.",
+    "location": "Ljárskógar → Þórsnessþing, Ísland",
+    "characters": ["Ólafur pái Höskuldsson", "Bolli Þorleiksson", "Ósvífurssynir", "Halldór Ólafsson", "Steinþór Ólafsson", "Þorsteinn Egilsson", "Guðmundur Sölmundarson"],
+    "tags": ["sátt", "sekt", "útlegð", "fjárbætur", "ættardeilur"]
+  },
+  {
+    "id": 122,
+    "title": "Andlát Hrefnu",
+    "year": 1007,
+    "summary": "Hrefna Ásgeirsdóttir, ekkja Kjartans, fer norður með bræðrum sínum. Hún lifir stutt og er sögð hafa sprungið af harmi.",
+    "location": "Víðidalur (líkl.), Ísland",
+    "characters": ["Hrefna Ásgeirsdóttir"],
+    "tags": ["dauði", "sorg", "ást"]
+  },
+  {
+    "id": 123,
+    "title": "Andlát Ólafs páa",
+    "year": 1009,
+    "summary": "Ólafur pái Höskuldsson lifir þrjá vetur eftir fall Kjartans og andast síðan. Synir hans skipta arfi og Halldór tekur við búi í Hjarðarholti.",
+    "location": "Hjarðarholt, Ísland",
+    "characters": ["Ólafur pái Höskuldsson", "Halldór Ólafsson"],
+    "tags": ["dauði", "erfðir"]
+  },
+  {
+    "id": 124,
+    "title": "Þorgerður eggjar syni sína til hefnda",
+    "year": 1010,
+    "summary": "Þorgerður Egilsdóttir, móðir Ólafssona, þolir illa að Bolli sé óhefndur og eggjar syni sína stöðugt til að hefna Kjartans.",
+    "location": "Hjarðarholt, Ísland",
+    "characters": ["Þorgerður Egilsdóttir", "Halldór Ólafsson", "Steinþór Ólafsson", "Helgi Ólafsson", "Höskuldur Ólafsson"],
+    "tags": ["eggjan", "hefnd", "ættardeilur", "móðurást"]
+  },
+  {
+    "id": 125,
+    "title": "Halldór drepur Þorkel á Hafratindum",
+    "year": 1011,
+    "summary": "Eftir að Þorgerður fréttir að Þorkell á Hafratindum hafi gert gys að Kjartani eftir fall hans og vitað um fyrirsátina án þess að vara Kjartan við, fer Halldór sonur hennar og drepur Þorkel.",
+    "location": "Hafratindar, Svínadalur, Ísland",
+    "characters": ["Halldór Ólafsson", "Þorkell á Hafratindum", "Þorgerður Egilsdóttir"],
+    "tags": ["hefnd", "morð", "uppljóstrun"]
+  },
+  {
+    "id": 126,
+    "title": "Bolli og Guðrún flytja í Tungu",
+    "year": 1012,
+    "summary": "Bolli kaupir jörðina Tungu í Sælingsdal að ráði Ólafs páa og flytja þau Guðrún þangað. Þau eignast son sem nefndur er Þorleikur.",
+    "location": "Laugar → Tunga, Sælingsdalur, Ísland",
+    "characters": ["Bolli Þorleiksson", "Guðrún Ósvífursdóttir", "Þorleikur Bollason"],
+    "tags": ["búsetuflutningar", "landakaup", "fæðing"]
+  },
+  {
+    "id": 127,
+    "title": "Þorgerður eggjar syni sína á ný",
+    "year": 1018,
+    "summary": "Þorgerður Egilsdóttir heldur áfram að eggja syni sína til hefnda og ríður með þeim að Tungu til að minna þá á skyldu sína. Halldór ákveður að nú skuli til skarar skríða.",
+    "location": "Hjarðarholt → Tunga → Hjarðarholt, Ísland",
+    "characters": ["Þorgerður Egilsdóttir", "Halldór Ólafsson"],
+    "tags": ["eggjan", "hefnd", "ættardeilur", "ákvörðun"]
+  },
+  {
+    "id": 128,
+    "title": "Halldór safnar liði til hefnda",
+    "year": 1018,
+    "summary": "Halldór Ólafsson safnar liði til að ráðast á Bolla. Með honum í för eru bræður hans, Barði Guðmundarson (frændi þeirra), Lambi Þorbjarnarson (föðurbróðir), Þorsteinn svarti, Helgi Harðbeinsson og Án hrísmagi. Þorgerður fer með.",
+    "location": "Hjarðarholt → Sælingsdalur, Ísland",
+    "characters": ["Halldór Ólafsson", "Steinþór Ólafsson", "Helgi Ólafsson", "Höskuldur Ólafsson", "Barði Guðmundarson", "Lambi Þorbjarnarson", "Þorsteinn svarti", "Helgi Harðbeinsson", "Án hrísmagi", "Þorgerður Egilsdóttir"],
+    "tags": ["hefndaráform", "liðssöfnun", "ættardeilur"]
+  },
+  {
+    "id": 129,
+    "title": "Bolli Þorleiksson veginn í seli",
+    "year": 1018,
+    "summary": "Halldór og menn hans fara að sumarseli Bolla í Sælingsdal. Eftir harða vörn Bolla, þar sem Án hrísmagi og Lambi særast, leggur Helgi Harðbeinsson Bolla í gegn með spjóti. Steinþór Ólafsson höggur af honum höfuðið að eggjan Þorgerðar. Guðrún verður vitni að eftirmálum.",
+    "location": "Sælingsdalur (sel), Ísland",
+    "characters": ["Bolli Þorleiksson", "Halldór Ólafsson", "Steinþór Ólafsson", "Helgi Ólafsson", "Höskuldur Ólafsson", "Barði Guðmundarson", "Lambi Þorbjarnarson", "Þorsteinn svarti", "Helgi Harðbeinsson", "Án hrísmagi", "Þorgerður Egilsdóttir", "Guðrún Ósvífursdóttir (vitni)"],
+    "tags": ["morð", "hefnd", "ættardeilur", "bardagi", "dauði"]
+  },
+  {
+    "id": 130,
+    "title": "Snorri goði styður Guðrúnu",
+    "year": 1018,
+    "summary": "Guðrún leitar ásjár Snorra goða eftir víg Bolla. Snorri kemur með lið og býðst til að semja en Guðrún vill frekar skipta á jörðum við hann til að komast burt frá Hjarðhyltingum.",
+    "location": "Tunga → Helgafell, Ísland",
+    "characters": ["Guðrún Ósvífursdóttir", "Snorri goði", "Ósvífur Helgason"],
+    "tags": ["stuðningur", "landaskipti", "eftirmál"]
+  },
+  {
+    "id": 131,
+    "title": "Guðrún flytur til Helgafells",
+    "year": 1019,
+    "summary": "Guðrún og Snorri skipta á jörðum. Guðrún flytur með Ósvíf föður sínum og sonum sínum, Þorleiki og Bolla (nýfæddum syni Bolla Þorleikssonar), til Helgafells. Snorri flytur í Tungu.",
+    "location": "Tunga → Helgafell; Helgafell → Tunga, Ísland",
+    "characters": ["Guðrún Ósvífursdóttir", "Snorri goði", "Ósvífur Helgason", "Þorleikur Bollason", "Bolli Bollason"],
+    "tags": ["búsetuflutningar", "landaskipti", "uppvöxtur"]
+  },
+  {
+    "id": 132,
+    "title": "Þorkell Eyjólfsson kynntur",
+    "year": 1020,
+    "summary": "Þorkell Eyjólfsson, frægur og kynstór farmaður og vinur Snorra goða, er kynntur til sögunnar.",
+    "location": "Ísland / Noregur",
+    "characters": ["Þorkell Eyjólfsson", "Snorri goði"],
+    "tags": ["kynning", "höfðingi", "vinátta"]
+  },
+  {
+    "id": 133,
+    "title": "Snorri ráðleggur Þorkatli að biðja Guðrúnar",
+    "year": 1020,
+    "summary": "Þorkell kemur til Snorra goða. Snorri ráðleggur honum að hætta siglingum og kvænast Guðrúnu Ósvífursdóttur, nú þegar Bolli er hefndur (með vígi Helga) og Þorgils Hölluson er látinn.",
+    "location": "Tunga, Sælingsdalur, Ísland",
+    "characters": ["Þorkell Eyjólfsson", "Snorri goði", "Guðrún Ósvífursdóttir (umrædd)"],
+    "tags": ["ráðgjöf", "bónorðsáform", "hjónaband"]
+  },
+  {
+    "id": 134,
+    "title": "Þorkell Eyjólfsson kvænist Guðrúnu",
+    "year": 1021,
+    "summary": "Snorri goði fer með Þorkatli til Helgafells og ber upp bónorðið við Guðrúnu. Hún samþykkir með skilyrðum og að ráði Snorra og sona sinna. Brúðkaup er haldið að Helgafelli.",
+    "location": "Helgafell, Ísland",
+    "characters": ["Þorkell Eyjólfsson", "Guðrún Ósvífursdóttir", "Snorri goði", "Bolli Bollason", "Þorleikur Bollason"],
+    "tags": ["hjónaband", "bónorð", "veisla", "sátt?"]
+  },
+  {
+    "id": 135,
+    "title": "Gunnar Þiðrandabani fær hæli",
+    "year": 1021,
+    "summary": "Í brúðkaupsveislunni kemur upp ágreiningur þegar Þorkell vill handtaka Gunnar Þiðrandabana, sem Guðrún hefur veitt hæli. Snorri miðlar málum og Guðrún fær sínu framgengt. Síðar gefur Þorkell Gunnari skip að beiðni Guðrúnar.",
+    "location": "Helgafell, Ísland",
+    "characters": ["Þorkell Eyjólfsson", "Guðrún Ósvífursdóttir", "Gunnar Þiðrandabani", "Snorri goði"],
+    "tags": ["ásjá", "ágreiningur", "sáttamiðlun", "gjöf"]
+  },
+  {
+    "id": 136,
+    "title": "Gellir Þorkelsson fæðist",
+    "year": 1022,
+    "summary": "Þorkell Eyjólfsson og Guðrún eignast son sem nefndur er Gellir. Hann verður snemma efnilegur.",
+    "location": "Helgafell, Ísland",
+    "characters": ["Gellir Þorkelsson", "Þorkell Eyjólfsson", "Guðrún Ósvífursdóttir"],
+    "tags": ["fæðing", "ætt"]
+  },
+  {
+    "id": 137,
+    "title": "Þorleikur Bollason fer utan",
+    "year": 1024,
+    "summary": "Þorleikur Bollason (20 vetra) óskar að fara utan. Þorkell stjúpfaðir hans styður hann og útvegar honum fararefni. Þorleikur siglir til Noregs og gerist hirðmaður Ólafs konungs helga.",
+    "location": "Helgafell, Ísland → Noregur",
+    "characters": ["Þorleikur Bollason", "Þorkell Eyjólfsson", "Guðrún Ósvífursdóttir", "Ólafur helgi (konungur)"],
+    "tags": ["ferðalag", "hirðlíf", "uppvöxtur"]
+  },
+  {
+    "id": 138,
+    "title": "Bolli Bollason biður Þórdísar Snorradóttur",
+    "year": 1022,
+    "summary": "Bolli Bollason (18 vetra) biður Þorkell mág sinn og Guðrúnu móður sína að styðja sig til bónorðs við Þórdísi, dóttur Snorra goða. Þorkell fer með Bolla til Tungu og ber upp málið.",
+    "location": "Helgafell → Tunga, Ísland",
+    "characters": ["Bolli Bollason", "Þorkell Eyjólfsson", "Guðrún Ósvífursdóttir", "Snorri goði", "Þórdís Snorradóttir"],
+    "tags": ["bónorð", "hjónaband", "ættartengsl"]
+  },
+  {
+    "id": 139,
+    "title": "Brúðkaup Bolla og Þórdísar",
+    "year": 1022,
+    "summary": "Snorri goði samþykkir ráðahaginn og Þórdís einnig. Brúðkaup er haldið að sumri í Tungu. Bolli sest þar að með Þórdísi og Snorra.",
+    "location": "Tunga, Sælingsdalur, Ísland",
+    "characters": ["Bolli Bollason", "Þórdís Snorradóttir", "Snorri goði", "Þorkell Eyjólfsson", "Guðrún Ósvífursdóttir"],
+    "tags": ["hjónaband", "veisla", "búseta"]
+  },
+  {
+    "id": 140,
+    "title": "Heimkoma Þorleiks Bollasonar",
+    "year": 1025,
+    "summary": "Þorleikur Bollason kemur heim úr Noregsför sinni, efnaður og virtur eftir veru sína hjá Ólafi konungi. Hann dvelur um veturinn að Helgafelli.",
+    "location": "Hvítá → Helgafell, Ísland",
+    "characters": ["Þorleikur Bollason", "Bolli Bollason", "Þorkell Eyjólfsson", "Guðrún Ósvífursdóttir"],
+    "tags": ["heimkoma", "virðing", "fjármál"]
+  },
+  {
+    "id": 141,
+    "title": "Bollasynir áforma hefndir",
+    "year": 1026,
+    "summary": "Þeir bræður Þorleikur og Bolli ræða um að hefna föður síns og telja sig nú hafa nægan styrk til að ráðast á Ólafssonu.",
+    "location": "Tunga, Ísland",
+    "characters": ["Þorleikur Bollason", "Bolli Bollason", "Snorri goði"],
+    "tags": ["hefndaráform", "ættardeilur", "ráðagerð"]
+  },
+  {
+    "id": 142,
+    "title": "Snorri miðlar sáttum milli Bollasona og Ólafssona",
+    "year": 1026,
+    "summary": "Snorri goði fréttir af áformum bræðranna og fær þá til að fallast á sáttamiðlun. Hann fer til Hjarðarholts og semur við Halldór Ólafsson um að bæta víg Bolla með fé en undanskilja jarðir og goðorð. Snorri og Steinþór á Eyri dæma í málinu.",
+    "location": "Tunga → Hjarðarholt → Drangar, Ísland",
+    "characters": ["Snorri goði", "Þorleikur Bollason", "Bolli Bollason", "Halldór Ólafsson", "Steinþór Þorláksson"],
+    "tags": ["sáttamiðlun", "friður", "fjárbætur", "lög", "ættardeilur"]
+  },
+  {
+    "id": 143,
+    "title": "Bolli Bollason fer utan",
+    "year": 1027,
+    "summary": "Eftir sáttina lýsir Bolli því yfir að hann ætli utan suður í lönd. Snorri reynir að telja hann ofan af því en Bolli er ákveðinn. Hann siglir til Danmerkur.",
+    "location": "Tunga → Danmörk",
+    "characters": ["Bolli Bollason", "Snorri goði", "Þórdís Snorradóttir"],
+    "tags": ["ferðalag", "brottför", "ævintýraþrá"]
+  },
+  {
+    "id": 144,
+    "title": "Bolli í Miklagarði",
+    "year": 1028,
+    "summary": "Bolli fer frá Danmörku til Miklagarðs (Konstantínópel) og gengur í Væringjasveit keisarans. Hann dvelur þar marga vetur og þykir hinn mesti hraustleiksmaður.",
+    "location": "Danmörk → Miklagarður (Konstantínópel)",
+    "characters": ["Bolli Bollason", "Garðskonungur (Keisari)"],
+    "tags": ["hermennska", "Væringjar", "frægð", "Miklagarður"]
+  },
+  {
+    "id": 145,
+    "title": "Draumur Þorkels um skeggið",
+    "year": 1029,
+    "summary": "Þorkel Eyjólfsson dreymir að hann eigi skegg svo mikið að það taki um allan Breiðafjörð. Hann túlkar það sem merki um völd sín en Guðrún túlkar það svo að hann muni drepa skeggi í firðinum (þ.e. drukkna).",
+    "location": "Helgafell, Ísland",
+    "characters": ["Þorkell Eyjólfsson", "Guðrún Ósvífursdóttir"],
+    "tags": ["draumar", "spádómur", "fyrirboði", "dauði"]
+  },
+  {
+    "id": 146,
+    "title": "Þorkell fer til Noregs eftir kirkjuvið",
+    "year": 1029,
+    "summary": "Þorkell siglir til Noregs til að sækja timbur í kirkju sem hann ætlar að reisa á Helgafelli. Gellir sonur hans (12 vetra) fer með honum.",
+    "location": "Helgafell → Noregur",
+    "characters": ["Þorkell Eyjólfsson", "Gellir Þorkelsson"],
+    "tags": ["ferðalag", "viðskipti", "kirkjubygging", "trú"]
+  },
+  {
+    "id": 147,
+    "title": "Deila Þorkels og Ólafs helga um timbrið",
+    "year": 1030,
+    "summary": "Ólafur konungur helgi gefur Þorkatli timbur í kirkjuna en biður hann að stytta stærstu trén. Þorkell neitar þverlega og segist frekar afla annars viðar. Konungur verður mislyndur og spáir því að Þorkell muni hafa litla nyt af timbrinu.",
+    "location": "Þrándheimur, Noregur",
+    "characters": ["Þorkell Eyjólfsson", "Ólafur helgi"],
+    "tags": ["ágreiningur", "stolt", "spádómur", "kirkjubygging"]
+  },
+  {
+    "id": 148,
+    "title": "Þorkell Eyjólfsson drukknar",
+    "year": 1030,
+    "summary": "Þorkell siglir heim með kirkjuviðinn. Vorið eftir (á skírdag) fer hann á ferju til að flytja timbrið frá Ljárskógum út til Helgafells, þrátt fyrir viðvaranir Þorsteins frænda síns um vont veður. Ferjan hvolfir í stormi við Bjarnarey og Þorkell og allir menn hans drukkna.",
+    "location": "Ljárskógar → Bjarnarey, Breiðafjörður, Ísland",
+    "characters": ["Þorkell Eyjólfsson", "Þorsteinn svarti"],
+    "tags": ["dauði", "drukknun", "skipbrot", "stormur", "örlög"]
+  },
+  {
+    "id": 149,
+    "title": "Guðrún sér draug Þorkels",
+    "year": 1030,
+    "summary": "Sama kvöld og Þorkell drukknar sér Guðrún draug standa við kirkjugarðshliðið og síðar sér hún Þorkel og förunauta hans standa fyrir utan kirkjuna með sjó í klæðunum.",
+    "location": "Helgafell, Ísland",
+    "characters": ["Guðrún Ósvífursdóttir", "Þorkell Eyjólfsson (draugur)"],
+    "tags": ["draugagangur", "fyrirboði", "sýn", "dauði"]
+  },
+  {
+    "id": 150,
+    "title": "Völuleiði finnst á Helgafelli",
+    "year": 1031,
+    "summary": "Eftir draum Herdísar Bolladóttur lætur Guðrún grafa undir bænakné sínu í kirkjunni. Þar finnast bein, kinga og seiðstafur úr gömlu völuleiði. Beinin eru færð.",
+    "location": "Helgafell, Ísland",
+    "characters": ["Guðrún Ósvífursdóttir", "Herdís Bolladóttir", "Völva (leifar)"],
+    "tags": ["fornleifar", "trú", "draumar", "heiðni"]
+  },
+  {
+    "id": 151,
+    "title": "Bolli prúði snýr aftur",
+    "year": 1031,
+    "summary": "Bolli Bollason kemur aftur til Íslands eftir langa dvöl í Miklagarði. Hann er auðugur, skartbúinn með gullbúin vopn og í skarlati og er kallaður Bolli hinn prúði. Hann fær góðar viðtökur.",
+    "location": "Eyjafjörður → Helgafell → Tunga, Ísland",
+    "characters": ["Bolli Bollason", "Guðrún Ósvífursdóttir", "Snorri goði", "Þórdís Snorradóttir"],
+    "tags": ["heimkoma", "frægð", "auður", "Væringjar", "útlit"]
+  },
+  {
+    "id": 152,
+    "title": "Andlát Snorra goða",
+    "year": 1031,
+    "summary": "Snorri goði tekur sótt og andast, 67 ára gamall, ári eftir fall Ólafs helga. Áður biður hann Bolla Bollason að taka við búi í Tungu.",
+    "location": "Tunga, Sælingsdalur, Ísland",
+    "characters": ["Snorri goði", "Bolli Bollason"],
+    "tags": ["dauði", "erfðir", "höfðingi"]
+  },
+  {
+    "id": 153,
+    "title": "Guðrún verður nunna og einsetukona",
+    "year": 1040,
+    "summary": "Guðrún eldist og verður fyrst nunna og einsetukona á Íslandi. Hún er talin göfgust jafnborinna kvenna.",
+    "location": "Helgafell, Ísland",
+    "characters": ["Guðrún Ósvífursdóttir"],
+    "tags": ["öldrun", "trú", "nunna", "einseta", "virðing"]
+  },
+  {
+    "id": 154,
+    "title": "Guðrún segir Bolla hverjum hún unni mest",
+    "year": 1050,
+    "summary": "Bolli Bollason heimsækir Guðrúnu móður sína, sem þá er orðin gömul og sjónlaus. Hann spyr hana hverjum manni hún hafi unnað mest. Hún svarar: \"Þeim var eg verst er eg unni mest,\" og á þar við Kjartan.",
+    "location": "Helgafell, Ísland",
+    "characters": ["Guðrún Ósvífursdóttir", "Bolli Bollason", "Kjartan Ólafsson (umræddur)"],
+    "tags": ["ást", "eftirsjá", "játning", "fjölskyldutengsl", "öldrun"]
+  },
+  {
+    "id": 155,
+    "title": "Andlát Guðrúnar",
+    "year": 1060,
+    "summary": "Guðrún Ósvífursdóttir andast gömul að Helgafelli og er þar grafin.",
+    "location": "Helgafell, Ísland",
+    "characters": ["Guðrún Ósvífursdóttir"],
+    "tags": ["dauði", "jarðarför"]
+  },
+  {
+    "id": 156,
+    "title": "Gellir Þorkelsson fer í suðurgöngu",
+    "year": 1070,
+    "summary": "Gellir Þorkelsson, orðinn aldraður, fer í pílagrímsferð til Rómar. Hann dvelst lengi erlendis.",
+    "location": "Helgafell → Noregur → Róm",
+    "characters": ["Gellir Þorkelsson"],
+    "tags": ["ferðalag", "pílagrímsferð", "trú", "öldrun"]
+  },
+  {
+    "id": 157,
+    "title": "Andlát Gellis Þorkelssonar",
+    "year": 1073,
+    "summary": "Á heimleið úr suðurgöngu veikist Gellir Þorkelsson í Danmörku og andast. Hann er grafinn í Hróiskeldu. Sverðið Sköfnungur, sem hann hafði meðferðis, týnist.",
+    "location": "Hróiskelda, Danmörk",
+    "characters": ["Gellir Þorkelsson"],
+    "tags": ["dauði", "jarðarför", "sverð"]
+  },
+  {
+    "id": 158,
+    "title": "Afkomendur Gellis",
+    "year": 1073,
+    "summary": "Synir Gellis eru nefndir, Þorkell og Þorgils. Þorgils drukknaði ungur. Frá Þorkatli er Ari hinn fróði kominn.",
+    "location": "Ísland",
+    "characters": ["Þorkell Gellisson", "Þorgils Gellisson", "Ari hinn fróði Þorgilsson"],
+    "tags": ["ætt", "fræðimennska"]
+  },
+  {
+    "id": 159,
+    "title": "Lok Laxdælu",
+    "year": 1073,
+    "summary": "Sögunni lýkur með umfjöllun um afkomendur Gellis Þorkelssonar.",
+    "location": "Ísland",
+    "characters": [],
+    "tags": ["sögulok"]
+  },
+  {
+    "id": 160,
+    "title": "Kynning á Skagfirðingum",
+    "year": 1040,
+    "summary": "Kynntir eru menn í Skagafirði: Arnór kerlingarnef á Miklabæ, Þórður og Guðrún á Marbæli (Guðrún systrungur Bolla) og synir þeirra Ólafur, Hjaltasynir á Hofi og Þórólfur stertimaður í Þúfum.",
+    "location": "Skagafjörður (Miklibær, Marbæli, Hof, Þúfur), Ísland",
+    "characters": ["Bolli Bollason (nefndur)", "Arnór kerlingarnef", "Þórður á Marbæli", "Guðrún (kona Þórðar)", "Ólafur Þórðarson", "Þórður Hjaltason", "Þorvaldur Hjaltason", "Þórólfur stertimaður"],
+    "tags": ["kynning", "ætt", "staðarlýsing"]
+  },
+  {
+    "id": 161,
+    "title": "Þórður drepur graðung Þórólfs",
+    "year": 1045,
+    "summary": "Graðungur Þórólfs stertimanns veldur usla. Eftir að hafa kvartað án árangurs drepur Þórður á Marbæli graðunginn þegar hann brýtur niður torfstakka hans.",
+    "location": "Marbæli, Skagafjörður, Ísland",
+    "characters": ["Þórður á Marbæli", "Þórólfur stertimaður", "Graðungur"],
+    "tags": ["deilur", "dýr", "eignaspjöll", "dráp"]
+  },
+  {
+    "id": 162,
+    "title": "Þórólfur drepur Ólaf Þórðarson",
+    "year": 1045,
+    "summary": "Til að hefna graðungsins leggur Þórólfur stertimaður Ólaf, 7-8 ára son Þórðar á Marbæli, í gegn með spjóti. Hann leitar ásjár hjá Arnóri og Hjaltasonum en fær neitun.",
+    "location": "Marbæli → Miklibær → Hof, Skagafjörður, Ísland",
+    "characters": ["Þórólfur stertimaður", "Ólafur Þórðarson", "Þórður á Marbæli", "Arnór kerlingarnef", "Þórður Hjaltason", "Þorvaldur Hjaltason"],
+    "tags": ["morð", "hefnd", "barnadráp", "grimmd"]
+  },
+  {
+    "id": 163,
+    "title": "Bolli tekur að sér vígsmál Ólafs",
+    "year": 1046,
+    "summary": "Guðrún á Marbæli fer suður til Bolla frænda síns og biður hann að taka að sér eftirmál sonar síns. Bolli er tregur en tekur málið að sér.",
+    "location": "Marbæli → Tunga, Ísland",
+    "characters": ["Bolli Bollason", "Guðrún (kona Þórðar)", "Þórður á Marbæli", "Ólafur Þórðarson (veginn)"],
+    "tags": ["eftirmál", "lög", "frændsemi", "stuðningur"]
+  },
+  {
+    "id": 164,
+    "title": "Þórólfur sektaður á Hegranesþingi",
+    "year": 1047,
+    "summary": "Bolli fer norður í Skagafjörð með þrjá tigu manna og fær stuðning Arnórs kerlingarnefs. Á Hegranesþingi reynir Þorvaldur Hjaltason að verja mál Þórólfs en Arnór kemur í veg fyrir átök. Bolli nær að sekta Þórólf.",
+    "location": "Miklibær → Hegranesþing, Skagafjörður, Ísland",
+    "characters": ["Bolli Bollason", "Arnór kerlingarnef", "Þórólfur stertimaður", "Þorvaldur Hjaltason", "Starri (Guðdælingur)"],
+    "tags": ["lög", "þing", "sekt", "átök", "stuðningur"]
+  },
+  {
+    "id": 165,
+    "title": "Bolli drepur Þórólf stertimann",
+    "year": 1047,
+    "summary": "Starri kemur Þórólfi í skip í Hrútafirði. Bolli fréttir þetta, ríður einn norður og drepur Þórólf með Fótbít þegar hann er að fara um borð. Hann hótar kaupmönnum og þeir láta hann fara.",
+    "location": "Tunga → Hrútafjörður, Ísland",
+    "characters": ["Bolli Bollason", "Þórólfur stertimaður", "Starri", "Þorgrímur (stýrimaður)"],
+    "tags": ["morð", "hefnd", "aftaka", "hugrekki", "sverð"]
+  },
+  {
+    "id": 166,
+    "title": "Bolli í heimboðum norðanlands",
+    "year": 1048,
+    "summary": "Bolli þiggur heimboð Guðmundar ríka, Arnórs kerlingarnefs og fleiri höfðingja norðanlands. Arnór fylgir honum á leið vegna ótta við Hjaltasonu.",
+    "location": "Tunga → Skagafjörður → Eyjafjörður (Möðruvellir), Ísland",
+    "characters": ["Bolli Bollason", "Guðmundur ríki", "Arnór kerlingarnef", "Þórður á Marbæli", "Þorsteinn á Hálsi"],
+    "tags": ["ferðalag", "veisla", "vinátta", "virðing", "spenna"]
+  },
+  {
+    "id": 167,
+    "title": "Átök Bolla við Svarfdælinga",
+    "year": 1048,
+    "summary": "Á heimleið lenda Bolli og menn hans í útistöðum við Helga á Skeiði í Svarfaðardal vegna heyþjófnaðar. Helgi stefnir Bolla. Síðar situr Þorsteinn á Hálsi fyrir Bolla. Þeir berjast við Svarfaðardalsá. Ljótur á Völlum og Óttar á Krossum ganga í milli og Ljótur gerir sætt þar sem Bolli fær bætur fyrir fyrirsátina.",
+    "location": "Svarfaðardalur (Skeið, Krossar, Vellir, Háls, Hestanes), Ísland",
+    "characters": ["Bolli Bollason", "Helgi á Skeiði", "Þorsteinn á Hálsi", "Ljótur á Völlum", "Óttar á Krossum", "Arnór kerlingarnef", "Sigríður (kona Helga)"],
+    "tags": ["deilur", "bardagi", "sáttamiðlun", "lög", "gestrisni"]
+  },
+  {
+    "id": 168,
+    "title": "Lok Bolla þáttar",
+    "year": 1049,
+    "summary": "Bolli snýr heim virtur og frægur eftir norðanförina. Hann lauk vel við Sigríði frá Skeiði. Þar með lýkur þætti Bolla Bollasonar.",
+    "location": "Tunga, Ísland",
+    "characters": ["Bolli Bollason"],
+    "tags": ["sögulok", "frægð", "virðing"]
+  }
+]

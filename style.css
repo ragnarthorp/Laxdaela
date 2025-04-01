@@ -1,0 +1,290 @@
+/* ==== ÞEMA OG BREYTUR ==== */
+:root {
+    --primary-font: 'Lato', sans-serif;
+    --secondary-font: 'Merriweather', serif;
+    --bg-color: #f4f4f4;
+    --text-color: #333;
+    --header-color: #2c3e50;
+    --accent-color-1: #5d7a8c;
+    --accent-color-2: #8a9a5b;
+    --accent-color-3: #bca48c;
+    --border-color: #ccc;
+    --modal-bg: rgba(0, 0, 0, 0.6);
+    --modal-content-bg: #fff;
+  }
+  
+  /* ==== GRUNNSTILLINGAR ==== */
+  body {
+    font-family: var(--primary-font);
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 8px;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 30px;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 20px;
+  }
+  
+  header h1 {
+    font-family: var(--secondary-font);
+    color: var(--header-color);
+    margin-bottom: 5px;
+  }
+  
+  header p {
+    color: #666;
+    font-size: 1.1em;
+  }
+  
+  /* ==== FLIPAR ==== */
+  .tabs {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    border-bottom: 1px solid var(--border-color);
+    flex-wrap: wrap;
+  }
+  
+  .tab-button {
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    font-size: 1em;
+    font-weight: bold;
+    color: var(--accent-color-1);
+    border-bottom: 3px solid transparent;
+    transition: all 0.3s ease;
+  }
+  
+  .tab-button:hover {
+    color: var(--header-color);
+  }
+  
+  .tab-button.active {
+    color: var(--header-color);
+    border-bottom: 3px solid var(--header-color);
+  }
+  
+  .tab-content {
+    display: none;
+    padding: 20px 0;
+  }
+  
+  .tab-content.active {
+    display: block;
+  }
+  
+  .tab-content h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: var(--secondary-font);
+    color: var(--header-color);
+  }
+  
+  /* ==== TÍMALÍNA ==== */
+  #timeline {
+    width: 100%;
+    height: 500px;
+    border: 1px solid var(--border-color);
+    margin-bottom: 15px;
+    background-color: #fff;
+  }
+  
+  .timeline-instructions {
+    text-align: center;
+    font-style: italic;
+    color: #666;
+    font-size: 0.9em;
+  }
+  
+  .vis-item {
+    border-color: var(--accent-color-1);
+    background-color: var(--accent-color-3);
+    color: var(--text-color);
+    border-radius: 4px;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .vis-item.vis-selected {
+    border-color: var(--header-color);
+    background-color: var(--accent-color-2);
+    color: white;
+  }
+  
+  .vis-time-axis .vis-grid.vis-major {
+    border-color: var(--border-color);
+  }
+  
+  .vis-time-axis .vis-text {
+    color: #555;
+  }
+  
+  /* ==== MODAL ==== */
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: var(--modal-bg);
+  }
+  
+  .modal-content {
+    background-color: var(--modal-content-bg);
+    margin: 10% auto;
+    padding: 30px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 700px;
+    border-radius: 8px;
+    position: relative;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
+  
+  .close-button {
+    color: #aaa;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .close-button:hover,
+  .close-button:focus {
+    color: black;
+    text-decoration: none;
+  }
+  
+  #modal-title {
+    margin-top: 0;
+    font-family: var(--secondary-font);
+    color: var(--header-color);
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+  
+  #modal-body h4 {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    color: var(--accent-color-1);
+    font-weight: bold;
+  }
+  
+  #modal-body ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    padding-left: 0;
+  }
+  
+  #modal-body li {
+    margin-bottom: 5px;
+  }
+  
+  #modal-body code {
+    background-color: #eee;
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-family: monospace;
+  }
+  
+  #modal-body .tags span {
+    display: inline-block;
+    background-color: var(--accent-color-2);
+    color: white;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 0.9em;
+    margin-right: 5px;
+    margin-bottom: 5px;
+  }
+  
+  /* ==== LISTAR ==== */
+  #characters-list ul, #locations-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #characters-list li, #locations-list li {
+    padding: 10px;
+    border-bottom: 1px dashed var(--border-color);
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  #characters-list li:hover, #locations-list li:hover {
+    background-color: #e9e9e9;
+  }
+  
+  #characters-list li:last-child, #locations-list li:last-child {
+    border-bottom: none;
+  }
+  
+  /* ==== ÆTTARTRÉ ==== */
+  .family-card {
+    background-color: #fdfdfd;
+    border: 1px solid var(--border-color);
+    border-left: 5px solid var(--accent-color-1);
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 6px;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.05);
+  }
+  
+  .family-card h3 {
+    margin-top: 0;
+    color: var(--header-color);
+  }
+  
+  .family-card p {
+    margin: 6px 0;
+    line-height: 1.4;
+  }
+  
+  .family-card strong {
+    color: var(--accent-color-1);
+  }
+  
+  /* ==== MINNI SKJÁIR ==== */
+  @media (max-width: 768px) {
+    .container {
+      width: 95%;
+      padding: 15px;
+    }
+  
+    .tab-button {
+      padding: 8px 15px;
+      font-size: 0.9em;
+    }
+  
+    #timeline {
+      height: 400px;
+    }
+  
+    .modal-content {
+      width: 90%;
+      margin: 15% auto;
+      padding: 20px;
+    }
+  }
+  

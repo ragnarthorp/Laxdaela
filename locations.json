@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Noregur",
+    "description": "Upprunaland margra landnámsmanna, þar á meðal ættar Ketils flatnefs. Mikilvægur viðkomustaður í siglingum og stjórnmálum.",
+    "related_events": [1, 2, 3, 4, 25, 26, 27, 28, 29, 35, 36, 37, 38, 51, 61, 62, 63, 67, 98, 101, 102, 103, 104, 105, 106, 108, 109, 137, 146, 147, 156],
+    "coordinates": null
+  },
+  {
+    "name": "Ísland",
+    "description": "Aðalsögusvið Laxdælu sögu, land landnámsmanna.",
+    "related_events": [4, 5, 6, 7, 13, 14, 15, 16, 17, 18, 19, 22, 23, 24, 25, 28, 29, 30, 31, 32, 33, 34, 35, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 106, 107, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 145, 146, 148, 149, 150, 151, 152, 153, 154, 155, 156, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168],
+    "coordinates": null
+  },
+  {
+    "name": "Skotland",
+    "description": "Ketill flatnefur sest þar að. Þorsteinn rauður verður þar konungur um tíma.",
+    "related_events": [4, 8, 9, 10],
+    "coordinates": null
+  },
+  {
+    "name": "Orkneyjar",
+    "description": "Viðkomustaður Unnar djúpúðgu á leið til Íslands. Gró Þorsteinsdóttir giftist þar.",
+    "related_events": [11],
+    "coordinates": null
+  },
+  {
+    "name": "Færeyjar",
+    "description": "Viðkomustaður Unnar djúpúðgu. Ólöf Þorsteinsdóttir giftist þar.",
+    "related_events": [11, 12, 13],
+    "coordinates": null
+  },
+  {
+    "name": "Breiðafjörður",
+    "description": "Víðáttumikill fjörður á Vesturlandi Íslands, aðalsögusvið Laxdælu. Hér nema Björn austræni og Unnur djúpúðga land.",
+    "related_events": [5, 14, 15, 18, 41, 63, 130, 145, 148, 158],
+    "coordinates": null
+  },
+  {
+    "name": "Bjarnarhöfn",
+    "description": "Bústaður Björns austræna í Breiðafirði.",
+    "related_events": [5, 14],
+    "coordinates": null
+  },
+  {
+    "name": "Kjalarnes",
+    "description": "Landnám Helga bjólans.",
+    "related_events": [6, 14],
+    "coordinates": null
+  },
+  {
+    "name": "Eyjafjörður",
+    "description": "Landnám Helga magra.",
+    "related_events": [7, 151],
+    "coordinates": null
+  },
+  {
+    "name": "Hvammur í Dölum",
+    "description": "Landnámsjörð og bústaður Unnar djúpúðgu, síðar Ólafs feilans og afkomenda hans.",
+    "related_events": [16, 17, 20, 21, 22, 23, 48],
+    "coordinates": null
+  },
+  {
+    "name": "Laxárdalur",
+    "description": "Dalur í Breiðafjarðardölum þar sem margir lykilatburðir eiga sér stað. Bústaðir Dala-Kolls, Höskulds, Melkorku, Hrapps, Þórðar godda o.fl.",
+    "related_events": [17, 25, 33, 34, 39, 40, 53, 90, 95, 97, 116],
+    "coordinates": null
+  },
+  {
+    "name": "Höskuldsstaðir",
+    "description": "Bústaður Dala-Kolls og síðar sonar hans Höskulds í Laxárdal.",
+    "related_events": [25, 28, 29, 31, 32, 35, 38, 39, 40, 49, 51, 58, 59],
+    "coordinates": null
+  },
+  {
+    "name": "Hrappstaðir",
+    "description": "Bústaður Víga-Hrapps í Laxárdal. Leggst síðar í eyði vegna afturgöngu hans.",
+    "related_events": [33, 50],
+    "coordinates": null
+  },
+  {
+    "name": "Goddastaðir",
+    "description": "Bústaður Þórðar godda í Laxárdal. Ólafur pái elst þar upp og tekur við búi.",
+    "related_events": [34, 42, 43, 44, 46, 47, 48, 49, 60],
+    "coordinates": null
+  },
+  {
+    "name": "Melkorkustaðir",
+    "description": "Bústaður Melkorku eftir að hún flytur frá Höskuldsstöðum.",
+    "related_events": [40],
+    "coordinates": null
+  },
+  {
+    "name": "Bjarneyjar",
+    "description": "Eyjaklasi í Breiðafirði, mikilvæg veiðistöð þar sem Hallur var veginn.",
+    "related_events": [41],
+    "coordinates": null
+  },
+  {
+    "name": "Sauðafell",
+    "description": "Bústaður Þórólfs rauðnefs.",
+    "related_events": [45, 47],
+    "coordinates": null
+  },
+  {
+    "name": "Hjarðarholt",
+    "description": "Bústaður Ólafs páa sem hann byggir í Laxárdal. Verður höfuðból sveitarinnar.",
+    "related_events": [60, 64, 65, 66, 68, 72, 99, 109, 111, 112, 113, 119, 120, 123, 124, 125, 128, 129, 142],
+    "coordinates": null
+  },
+  {
+    "name": "Írland",
+    "description": "Föðurland Melkorku. Ólafur pái fer þangað til að hitta Mýrkjartan afa sinn.",
+    "related_events": [39, 105, 108],
+    "coordinates": null
+  },
+  {
+    "name": "Borg í Borgarfirði",
+    "description": "Bústaður Egils Skalla-Grímssonar og síðar Þorsteins sonar hans. Kjartan sækir þangað kvonfang.",
+    "related_events": [99, 109, 140],
+    "coordinates": null
+  },
+  {
+    "name": "Laugar í Sælingsdal",
+    "description": "Bústaður Ósvífurs og fjölskyldu hans, þar á meðal Guðrúnar. Mikilvægur vettvangur í ástamálum og deilum Kjartans og Bolla.",
+    "related_events": [73, 78, 81, 83, 84, 90, 100, 106, 107, 112, 113, 114, 116, 118, 119, 126],
+    "coordinates": null
+  },
+  {
+    "name": "Kambsnes",
+    "description": "Staður í Breiðafirði þar sem Unnur tapaði kambi sínum. Síðar bústaður Hrúts og Þorleiks Höskuldssonar.",
+    "related_events": [15, 51, 52, 54, 57, 90, 93, 95],
+    "coordinates": null
+  },
+  {
+    "name": "Hrútsstaðir",
+    "description": "Bústaður Hrúts Herjólfssonar í Laxárdal eftir að hann flytur frá Kambsnesi.",
+    "related_events": [53, 92, 94],
+    "coordinates": null
+  },
+  {
+    "name": "Tunga í Sælingsdal",
+    "description": "Jörð sem Ósvífur kaupir hluta af. Kjartan kaupir hana síðar af Þórarni til að koma í veg fyrir að Bolli og Guðrún setjist þar að. Snorri goði flytur þangað síðar og Bolli Bollason tekur við eftir hann.",
+    "related_events": [75, 117, 126, 130, 131, 138, 139, 140, 141, 142, 143, 151, 152, 163, 165, 168],
+    "coordinates": null
+  },
+  {
+    "name": "Helgafell",
+    "description": "Höfuðból Snorra goða. Guðrún flytur þangað eftir víg Bolla og býr þar með Þorkatli Eyjólfssyni. Guðrún og Ósvífur eru þar grafin.",
+    "related_events": [88, 130, 131, 134, 135, 136, 137, 138, 139, 140, 145, 146, 148, 149, 150, 151, 153, 154, 155, 156],
+    "coordinates": null
+  },
+  {
+    "name": "Svínadalur",
+    "description": "Dalur þar sem Kjartan Ólafsson var veginn af Bolla og Ósvífurssonum í Hafragili.",
+    "related_events": [119, 125],
+    "coordinates": null
+  },
+  {
+    "name": "Miklagarður (Konstantínópel)",
+    "description": "Höfuðborg Austrómverska ríkisins (Býsans). Bolli Bollason gengur þar í Væringjasveit og dvelur marga vetur.",
+    "related_events": [144, 151],
+    "coordinates": null
+  },
+  {
+    "name": "Skagafjörður",
+    "description": "Sögusvið Bolla þáttar Bollasonar, þar sem hann sækir mál og lendir í átökum.",
+    "related_events": [160, 161, 162, 164, 166],
+    "coordinates": null
+  },
+    {
+    "name": "Danmörk",
+    "description": "Viðkomustaður Ásgauts þræls og Bolla Bollasonar. Gellir Þorkelsson deyr þar.",
+    "related_events": [47, 143, 144, 157],
+    "coordinates": null
+  }
+]
